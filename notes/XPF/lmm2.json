@@ -63,6 +63,7 @@
  "dtUrlNameR": "",
  "playUrl": "https://dm.g916.com/play/{playUrl}.html",
  "playUa": "",
+ // "searchUrl": "https://dm.g916.com/ajax/suggest?mid=1&wd={wd}",
  "searchUrl": "https://dm.g916.com/vod/search.html?wd={wd}",
  "scVodNode": "//div[@class='col-6 col-sm-4 col-lg-3']",
  "scVodName": "//div[@class='detail']/h6/a/text()",
