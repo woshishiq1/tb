@@ -2073,7 +2073,7 @@
             "api": "csp_XBPQ",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/muji/master/notes/XBPQ/兄弟.json",
             "jar": "http://pan.aa53.cn/down.php/1fc7a84fb7e451fb0f9300b1023e7d96.txt;md5;1fc7a84fb7e451fb0f9300b1023e7d96"
-        },      
+        },
         {
             "key": "兄弟",
             "name": "兄弟(XBPQ)",
@@ -2527,21 +2527,21 @@
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/official/爱.py"
         },
-        {  
+        {
             "key": "彼岸(js)",
             "name": "彼岸(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/lib3/drpy2.min.js",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/lib3/AppGet.js?type=url&params=https://mfsp33.top$1234567887654321$1234567887654321"
         },
-        {  
+        {
             "key": "榴莲(js)",
             "name": "榴莲(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/lib3/drpy2.min.js",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/lib3/AppGet.js?type=url&params=https://appcms.ll4k.xyz$NiDGaKiVnkO3QX1Q$NiDGaKiVnkO3QX1Q"
         },
-        {  
+        {
             "key": "剧咖(js)",
             "name": "剧咖(js)",
             "type": 3,
@@ -2977,8 +2977,8 @@
             "name": "黑木影视(xml)",
             "type": 1,
             "api": "https://heimuer.ggff.net/api.php/tvbox",
-            "header":{
-                "User-Agent":"Lavf/58.12.100"
+            "header": {
+                "User-Agent": "Lavf/58.12.100"
             }
         },
         {
