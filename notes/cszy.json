@@ -809,6 +809,47 @@
             "name": "统一(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/py/统一影视.py"
+        },        {
+            "key": "csp_网飞猫",
+            "name": "网飞猫(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/py/网飞猫.py"
+        },
+        {
+            "key": "csp_51搜剧",
+            "name": "51搜剧(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/py/影院.py"
+        },
+        {
+            "key": "csp_4K影视",
+            "name": "4K影视(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/py/py_4k影视.py"
+        },
+        {
+            "key": "csp_1905",
+            "name": "1905(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/py/1905.py"
+        },
+        {
+            "key": "csp_可可",
+            "name": "可可影视(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/py/py_keke.py"
+        },
+        {
+            "key": "csp_在线",
+            "name": "在线(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/py/在线.py"
+        },
+        {
+            "key": "csp_短剧狗",
+            "name": "短剧狗(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/py/短剧狗.py"
         },
         {
             "key": "csp_播剧网",
@@ -1155,7 +1196,7 @@
             "api": "csp_XBPQ",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/muji/master/notes/XBPQ/兄弟.json",
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
+        },      
         {
             "key": "兄弟",
             "name": "兄弟(XBPQ)",
