@@ -644,6 +644,14 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662"
         },
         {
+            "key": "爆炸",
+            "name": "爆炸(SP)",
+            "type": 3,
+            "api": "csp_Muou",
+            "ext": "7lj763gg402i79425i3l85i6h848i295l5hiji5l828g3l3jjhg6kg7410lhjkqiaojij3ig1lg475178k7h0il4ig3h753h7hi516758699jh2g5h433li30gk11g73l90312h4g7",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662"
+        },
+        {
             "key": "公共",
             "name": "公共(SP)",
             "type": 3,
@@ -809,7 +817,8 @@
             "name": "统一(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/py/统一影视.py"
-        },        {
+        },
+        {
             "key": "csp_网飞猫",
             "name": "网飞猫(py)",
             "type": 3,
@@ -844,6 +853,18 @@
             "name": "在线(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/py/在线.py"
+        },
+        {
+            "key": "csp_修罗",
+            "name": "修罗(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/py/py_修罗.py"
+        },
+        {
+            "key": "csp_西瓜",
+            "name": "西瓜(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/py/py_xigua.py"
         },
         {
             "key": "csp_短剧狗",
@@ -1563,26 +1584,33 @@
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/official/爱.py"
         },
-        {  
+        {
             "key": "彼岸(js)",
             "name": "彼岸(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/lib3/drpy2.min.js",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/lib3/AppGet.js?type=url&params=https://mfsp33.top$1234567887654321$1234567887654321"
         },
-        {  
+        {
             "key": "榴莲(js)",
             "name": "榴莲(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/lib3/drpy2.min.js",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/lib3/AppGet.js?type=url&params=https://appcms.ll4k.xyz$NiDGaKiVnkO3QX1Q$NiDGaKiVnkO3QX1Q"
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/lib3/AppGet.js?type=url&params=https://qjappcms.ll4k.xyz$1yGA85sJ5STtE7uj$1yGA85sJ5STtE7uj"
         },
-        {  
+        {
             "key": "剧咖(js)",
             "name": "剧咖(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/lib3/drpy2.min.js",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/lib3/AppGet.js?type=url&params=https://get.xiaoqi0.cn$jukayingshi66666$jukayingshi66666"
+        },
+        {
+            "key": "瓜萌(js)",
+            "name": "瓜萌(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/lib3/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/lib3/AppGet.js?type=url&params=https://www.guahd.com$f2A7D4B9E8C16531$f2A7D4B9E8C16531"
         },
         {
             "key": "追剧迷(js)",
@@ -1999,8 +2027,8 @@
             "name": "黑木影视(xml)",
             "type": 1,
             "api": "https://heimuer.ggff.net/api.php/tvbox",
-            "header":{
-                "User-Agent":"Lavf/58.12.100"
+            "header": {
+                "User-Agent": "Lavf/58.12.100"
             }
         },
         {
@@ -2817,7 +2845,22 @@
         {
             "name": "巧技2",
             "type": 1,
-            "url": "https://zy.qiaoji8.com/xiafan.php?url="
+            "url": "https://zy.qiaoji8.com/xiafan.php?url=",
+            "ext": {
+                "flag": [
+                    "QD4K",
+                    "iyf",
+                    "duanju",
+                    "gzcj",
+                    "GTV",
+                    "GZYS",
+                    "weggz",
+                    "Ace"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
         },
         {
             "name": "虾米",
