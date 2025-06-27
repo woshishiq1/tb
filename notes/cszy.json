@@ -1153,6 +1153,13 @@
             "ext": "http://114.66.55.28:8818/api.php/app/"
         },
         {
+            "key": "csp_V2_久久",
+            "name": "久久(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2Guard",
+            "ext": "http://99cms.jj99.icu:8199/api.php/app/"
+        },
+        {
             "key": "老王影视",
             "name": "老王影视(XBPQ)",
             "type": 3,
@@ -1178,6 +1185,18 @@
             "ext": {
                 "分类url": "https://www.brovod.com/show/{cateId}--{by}-{class}-----{catePg}---{year}/",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5"
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "瓜皮",
+            "name": "瓜皮(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "简介": "剧情介绍:+module-info-introduction-content\">&&</div>",
+                "分类url": "https://www.gpvod.cc/vodshow/id/{cateId}/page/{catePg}.html",
+                "分类": "短剧$shuangju#电视剧$juji#电影$dianying#动漫$dongman#综艺$zongyi"
             },
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
@@ -1275,12 +1294,12 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "影院大全",
-            "name": "影院大全(XBPQ)",
+            "key": "影视大全",
+            "name": "影视大全(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
-                "分类url": "https://www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类url": "https://www.iysdq.cc/vodshow/{cateId}-{area}-------{catePg}---.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
             },
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
@@ -1347,6 +1366,14 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/XBPQ/海纳影视.json",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "西瓜",
+            "name": "西瓜(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/XBPQ/西瓜.json",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
@@ -1424,6 +1451,18 @@
                 "播放标题": ">&&<[不包含:鉴飽#視频]",
                 "分类url": "http://www.grjsm.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
                 "分类": "短剧$25#电视剧$2#电影$1#动漫$4#综艺$3"
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "百思派",
+            "name": "百思派(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "ext": {
+                "分类url": "https://www.bestpipe.cn/vodshow/{cateId}-{area}-------{catePg}---.html",
+                "分类": "电影$20#剧集$21#短剧$24#综艺$23#动漫$22"
             },
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
@@ -2141,6 +2180,7 @@
             "name": "suoni资源(xml)",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "playUrl": "https://www.snplayer.com/?url=",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 1
@@ -2150,9 +2190,22 @@
             "name": "木耳资源(xml)",
             "type": 1,
             "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
+            "playUrl": "https://hoplayer.com/index.html?url=",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
+        },
+        {
+            "key": "艾旦影视",
+            "name": "艾旦影视(xml)",
+            "type": 1,
+            "api": "https://www.lovedan.net/api.php/provide/vod/"
+        },
+        {
+            "key": "四圈影视",
+            "name": "四圈影视(xml)",
+            "type": 1,
+            "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
         },
         {
             "key": "金鹰资源",
@@ -3258,6 +3311,12 @@
             "type": 0,
             "url": "http://iptv.huohuoaa.tech/jiekou/live.txt",
             "ua": "Herissmon/2016"
+        },
+        {
+            "name": "cluntop",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/cluntop/sh/main/iptv.m3u",
+            "ua": "okhttp/4.1.0"
         },
         {
             "name": "星海",
