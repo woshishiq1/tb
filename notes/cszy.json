@@ -1170,8 +1170,8 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "兄弟影视",
-            "name": "兄弟影视(XBPQ)",
+            "key": "兄弟",
+            "name": "兄弟(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/muji/master/notes/XBPQ/兄弟.json",
