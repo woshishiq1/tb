@@ -1178,26 +1178,11 @@
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "兄弟",
-            "name": "兄弟(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://www.brovod.com/show/{cateId}--{by}-{class}-----{catePg}---{year}/",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5"
-            },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
             "key": "瓜皮",
             "name": "瓜皮(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": {
-                "简介": "剧情介绍:+module-info-introduction-content\">&&</div>",
-                "分类url": "https://www.gpvod.cc/vodshow/id/{cateId}/page/{catePg}.html",
-                "分类": "短剧$shuangju#电视剧$juji#电影$dianying#动漫$dongman#综艺$zongyi"
-            },
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/muji/master/notes/XBPQ/瓜皮.json",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
@@ -1461,6 +1446,7 @@
             "api": "csp_XBPQ",
             "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "ext": {
+                "图片": "data-original=\"&&\"",
                 "分类url": "https://www.bestpipe.cn/vodshow/{cateId}-{area}-------{catePg}---.html",
                 "分类": "电影$20#剧集$21#短剧$24#综艺$23#动漫$22"
             },
