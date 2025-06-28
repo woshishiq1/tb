@@ -512,6 +512,22 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
         },
         {
+            "key": "优质",
+            "name": "优质(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "hN4H3ccT+y6iapwG7kunJ4SmldFmZ1hfH8vlRYDhyV5lfJpsQugjNIfE7uQfJXIgaAIWglsN2NfMYlZPot87Gre40WQdwciyfLKJ5Gg3XlHFpl7nLgatKdxJj3+4Jz2D77KnIzS2wHbydsXI1Bmc6NfBz1dN17CNgrwCehKFKGLFi556QQL4FFKyk7EDk3IdoABCDBSrssej/v08+FKRU/W1TJr5vaRY7V69vIrentbM69VlqA2KI4qXqc8H3VDSjekl5AY3Fakh9JGwniItdw==",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
+        },
+        {
+            "key": "云速",
+            "name": "云速(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "0evJofTC3SDpNrfOmmIChloowwLlacEkTpPXHQGvnuCpyCfTv9+5Hw5j0SotfVBcEq8fDKoU6OPigTkxuxrtKQW49bxv497xKTtkiqnzuYtFR20r0/AERsnnPXGiHNlAl7LsuYnvTFyIam1RXbHBPyoihFRMLrOuCIEjkigiDACt5Ab3Mljmzanr/arLhmiidNNE2nwe4WXh866ANBt6BpgAajtWgtcj7v6tywA72VqJepkhwiqJEwFD3ZI07QvYoSu93TELWKv8sIpK86TiWw==",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
+        },
+        {
             "key": "光速",
             "name": "光速(SP)",
             "type": 3,
@@ -1179,15 +1195,6 @@
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "瓜皮",
-            "name": "瓜皮(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/muji/master/notes/XBPQ/瓜皮.json",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
             "key": "西瓜",
             "name": "西瓜(XBPQ)",
             "type": 3,
@@ -1197,6 +1204,14 @@
                 "分类url": "https://www.df211.com/vod-list-id-{cateId}-year-{year}-area-{area}-pg-{catePg}.html",
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$25"
             },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "西瓜2",
+            "name": "西瓜2(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/XBPQ/西瓜.json",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
@@ -1356,14 +1371,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "西瓜",
-            "name": "西瓜(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/XBPQ/西瓜.json",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
             "key": "面包影视",
             "name": "面包影视(XBPQ)",
             "type": 3,
@@ -1448,19 +1455,9 @@
             "api": "csp_XBPQ",
             "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "ext": {
-                "图片": "data-original=\"&&\"",
                 "分类url": "https://www.bestpipe.cn/vodshow/{cateId}-{area}-------{catePg}---.html",
                 "分类": "电影$20#剧集$21#短剧$24#综艺$23#动漫$22"
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
-            "key": "百思派2",
-            "name": "百思派2(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/XBPQ/百思派.json",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
