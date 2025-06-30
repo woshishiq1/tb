@@ -473,6 +473,38 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/PandaQ250628.jpg;md5;250fd4c497ecf7c573d91ee2674ec258"
         },
         {
+            "key": "云速2",
+            "name": "云速2(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "XRksEN3W20hd3bSb1cdiKl6rrJZOM0otP1Ett1yknmjVA9fGeMUewl1QKCASY0WqO7ZP5egWNcwYI9Lu7YKJGxgbj0vsL/E+PlbKB7+mf8PyyFncR0WQp7wN0qj394aa",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/PandaQ250628.jpg;md5;250fd4c497ecf7c573d91ee2674ec258"
+        },
+        {
+            "key": "海豚2",
+            "name": "海豚2(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "ncGO9IfuyMjbysvCamdzFokZEAwmwSptuElWkrNclaJraoEHFYkTWsdzkxcUKm4GSAvVz62pqT/WGUt01SzxLX7PwKwKIRwYjjymMhE7o7UpFgclIJOQN+MLXQ9aO5XuqCUYgwrMvYiLtWBb4LFmoQ==",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/PandaQ250628.jpg;md5;250fd4c497ecf7c573d91ee2674ec258"
+        },
+        {
+            "key": "咖啡2",
+            "name": "咖啡2(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "XRksEN3W20hd3bSb1cdiKnk0ZQBQsvUPxPGBV2iwSAEQHwYVvVpglyV3dIXr7XclzuYphImygQa2rUxjoobDHDcfqQI10On5UzS0ouHA4b5IHJTGcTdw5Z1jMoMWs4095UzbXrjKHwridQugjlB5gw==",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/PandaQ250628.jpg;md5;250fd4c497ecf7c573d91ee2674ec258"
+        },
+        {
+            "key": "追忆",
+            "name": "追忆(SP)",
+            "type": 3,
+            "api": "csp_AppSy",
+            "ext": "9rfWRaAx60J+W5F+j6agt6AHU3NkRl7m8WqfWIBU/MebSZgzY2wnsXwmAIMEYVqMzsnqr46bOn1q4JV/UJAKUVF6NUo2Xg8qcHgXrA63RWM=",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/PandaQ250628.jpg;md5;250fd4c497ecf7c573d91ee2674ec258"
+        },
+        {
             "key": "天天",
             "name": "天天(SP)",
             "type": 3,
@@ -1677,7 +1709,8 @@
             "key": "耐看(js)",
             "name": "耐看(js)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/js/耐看视频.js"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/lib3/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/js/耐看视频.js"
         },
         {
             "key": "追剧迷(js)",
