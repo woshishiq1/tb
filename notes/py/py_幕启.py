@@ -190,9 +190,9 @@ class Spider(BaseSpider):
         return ''
         
     def key(self):
-        hostt = self.fetch('https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/35174627.txt',
+        host = self.fetch('https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/35174627.txt',
                            headers=self.header).text.strip()
-        data = self.fetch('{0}/peizhi.php'.format(hostt), headers=self.header).text.strip()[8:-1]
+        data = self.fetch('{0}/peizhi.php'.format(host), headers=self.header).text.strip()[8:-1]
         bsdata = json.loads(b64decode(data).decode('utf-8'))
         host = bsdata['HBqq']
         jx = bsdata['HBrjjg']
