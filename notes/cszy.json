@@ -393,14 +393,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/PandaQ250628.jpg;md5;250fd4c497ecf7c573d91ee2674ec258"
         },
         {
-            "key": "csp_BookTing",
-            "name": "275听书(SP)",
-            "type": 3,
-            "api": "csp_BookTing",
-            "ext": "https://m.ting275.com",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/PandaQ250628.jpg;md5;250fd4c497ecf7c573d91ee2674ec258"
-        },
-        {
             "key": "肥猫",
             "name": "肥猫(SP)",
             "type": 3,
@@ -414,6 +406,38 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "Ygx7wpu8Zcm70i88iO9WMRvxQZdMqIapMqvlBKPmjCP60xrvslJlJFIwHepviTkKbgCK9nn25i0k7xnWVX0Y7g==",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/PandaQ250628.jpg;md5;250fd4c497ecf7c573d91ee2674ec258"
+        },
+        {
+            "key": "光盘",
+            "name": "光盘(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "5ztMiKPUcHLR7TRusm5rHsPgFhlXstdsZuadxKTvmldCWgloYKsAMQA+2Sr7eCUj",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/PandaQ250628.jpg;md5;250fd4c497ecf7c573d91ee2674ec258"
+        },
+        {
+            "key": "行动",
+            "name": "行动(SP)",
+            "type": 3,
+            "api": "csp_AppSy",
+            "ext": "iUYplHbim/qVptUBrzCuqk72erYn+xHvZVGawkGUOqtLGtiWlDcWpUagYzdfPYeECbG+IjVf7Mhz2ZqZ70k6X72tkUhQDNEpIN/XScTGlUE=",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/PandaQ250628.jpg;md5;250fd4c497ecf7c573d91ee2674ec258"
+        },
+        {
+            "key": "再来",
+            "name": "再来(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "gKqtScS9maa2YW8G9NNOtUsSxDvraRvNMDiazqRUzDYklDH0MMxfu9ZPgRdHKBcI",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/PandaQ250628.jpg;md5;250fd4c497ecf7c573d91ee2674ec258"
+        },
+        {
+            "key": "一碗",
+            "name": "一碗(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "cOS1UvSbYM3xW1jXF4QBcYkSAhpFDDoh7c53wGBZEyxDhNunH+Feq+RreiUkQsV1",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/PandaQ250628.jpg;md5;250fd4c497ecf7c573d91ee2674ec258"
         },
         {
@@ -433,27 +457,19 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/PandaQ250628.jpg;md5;250fd4c497ecf7c573d91ee2674ec258"
         },
         {
+            "key": "蔬菜",
+            "name": "蔬菜(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "II6EBjEX9APRjw9zkvfuusSMPTiiXvPm9pK9Zv0wFaq4AWWODp1x+otEA1t0ZFTSq+p0AmaiQvE9cq5Hdl/Vlg==",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/PandaQ250628.jpg;md5;250fd4c497ecf7c573d91ee2674ec258"
+        },
+        {
             "key": "黑猫",
             "name": "黑猫(SP)",
             "type": 3,
             "api": "csp_AppGet",
             "ext": "cLeOXZXsq65z+2s8qkWsD+GYhlTxoLn2cNnZiAXyiQPBfOCR3nVfgmZWdkvjSaqJFD9Bmb+U0RVCI9wv8BMVIg==",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/PandaQ250628.jpg;md5;250fd4c497ecf7c573d91ee2674ec258"
-        },
-        {
-            "key": "光盘",
-            "name": "光盘(SP)",
-            "type": 3,
-            "api": "csp_AppSy",
-            "ext": "5ztMiKPUcHLR7TRusm5rHsPgFhlXstdsZuadxKTvmldCWgloYKsAMQA+2Sr7eCUj",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/PandaQ250628.jpg;md5;250fd4c497ecf7c573d91ee2674ec258"
-        },
-        {
-            "key": "行动",
-            "name": "行动(SP)",
-            "type": 3,
-            "api": "csp_AppSy",
-            "ext": "iUYplHbim/qVptUBrzCuqk72erYn+xHvZVGawkGUOqtLGtiWlDcWpUagYzdfPYeECbG+IjVf7Mhz2ZqZ70k6X72tkUhQDNEpIN/XScTGlUE=",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/jar/PandaQ250628.jpg;md5;250fd4c497ecf7c573d91ee2674ec258"
         },
         {
@@ -1656,6 +1672,13 @@
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/lib3/drpy2.min.js",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/lib3/AppGet.js?type=url&params=https://www.guahd.com$f2A7D4B9E8C16531$f2A7D4B9E8C16531"
+        },
+        {
+            "key": "耐看(js)",
+            "name": "耐看(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/lib3/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/muji/master/notes/js/耐看视频.js"
         },
         {
             "key": "追剧迷(js)",
