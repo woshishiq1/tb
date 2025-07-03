@@ -65,9 +65,9 @@ class Spider(Spider):
                         else:
                             number = 0
                         if 'http' not in match[0]:
-                            output += f"#{'📽️冉神👉' + match[1]}${number}{xurl}{match[0]}"
+                            output += f"#{match[1]}${number}{xurl}{match[0]}"
                         else:
-                            output += f"#{'📽️冉神👉' + match[1]}${number}{match[0]}"
+                            output += f"#{match[1]}${number}{match[0]}"
                     output = output[1:]
                     purl = purl + output + "$$$"
                 purl = purl[:-3]
@@ -97,17 +97,17 @@ class Spider(Spider):
             middle_text = text[start_index + len(start_str):end_index]
             matches = re.findall(start_index1, middle_text)
             if matches:
-                new_list = [f'✨冉神👉{item}' for item in matches]
+                new_list = [f'{item}' for item in matches]
                 jg = '$$$'.join(new_list)
                 return jg
 
     def homeContent(self, filter):
         result = {}
-        result = {"class": [{"type_id": "1", "type_name": "冉神电影🎃"},
-                            {"type_id": "2", "type_name": "冉神剧集🎃"},
-                            {"type_id": "4", "type_name": "冉神动漫🎃"},
-                            {"type_id": "5", "type_name": "冉神纪录片🎃"},
-                            {"type_id": "3", "type_name": "冉神综艺🎃"}],
+        result = {"class": [{"type_id": "1", "type_name": "电影"},
+                            {"type_id": "2", "type_name": "剧集"},
+                            {"type_id": "4", "type_name": "动漫"},
+                            {"type_id": "5", "type_name": "纪录片"},
+                            {"type_id": "3", "type_name": "综艺"}],
 
                   "list": [],
                   "filters": {"1": [{"key": "年代",
@@ -199,9 +199,9 @@ class Spider(Spider):
 
                     video = {
                         "vod_id": id,
-                        "vod_name": '冉神📽️' + name,
+                        "vod_name": name,
                         "vod_pic": pic,
-                        "vod_remarks": '冉神▶️' + remark
+                        "vod_remarks": remark
                              }
                     videos.append(video)
 
@@ -259,9 +259,9 @@ class Spider(Spider):
 
                     video = {
                         "vod_id": id,
-                        "vod_name": '冉神📽️' + name,
+                        "vod_name": name,
                         "vod_pic": pic,
-                        "vod_remarks": '冉神▶️' + remark
+                        "vod_remarks": remark
                              }
                     videos.append(video)
 
@@ -292,7 +292,7 @@ class Spider(Spider):
 
         videos.append({
             "vod_id": did,
-            "vod_actor": '😸冉神 😸冉神',
+            "vod_actor": '😸冉神',
             "vod_director": '😸冉神',
             "vod_content": '😸请不要相信任何广告！！！祝您观影愉快！',
             "vod_play_from": xianlu,
@@ -354,9 +354,9 @@ class Spider(Spider):
            
             video = {
                 "vod_id": id,
-                "vod_name": '冉神📽️' + name,
+                "vod_name": name,
                 "vod_pic": pic,
-                "vod_remarks": '冉神▶️' + remark
+                "vod_remarks": remark
                     }
             videos.append(video)
       
