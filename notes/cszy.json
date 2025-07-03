@@ -880,10 +880,10 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/农民影视.py"
         },
         {
-            "key": "csp_py_幕启",
-            "name": "幕启(py)",
+            "key": "csp_界影视",
+            "name": "界影视(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/py_幕启.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_jieyingshi.py"
         },
         {
             "key": "csp_py_桃子",
@@ -983,10 +983,40 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/py_keke.py"
         },
         {
+            "key": "快点播",
+            "name": "快点播(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/py_quickvod.py"
+        },
+        {
+            "key": "奇库",
+            "name": "奇库(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/奇库影视.py"
+        },
+        {
             "key": "csp_1905",
             "name": "1905(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/1905.py"
+        },
+        {
+            "key": "csp_m1905",
+            "name": "m1905(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/m1905.py"
+        },
+        {
+            "key": "小熊猫",
+            "name": "小熊猫(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/小熊猫影视.py"
+        },
+        {
+            "key": "哔哩视频",
+            "name": "哔哩视频(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/哔哩视频.py"
         },
         {
             "key": "csp_播剧网",
@@ -1065,6 +1095,12 @@
             "name": "蓝莓(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/py_蓝莓短剧.py"
+        },
+        {
+            "key": "星芽",
+            "name": "星芽(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/星芽短剧.py"
         },
         {
             "key": "csp_红果",
