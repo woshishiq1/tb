@@ -336,6 +336,7 @@
             "name": "TVB云播(SP)",
             "type": 3,
             "api": "csp_Tvyb",
+            "ext": "http://www.tvyun10.com",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/PandaQ250703b.jpg;md5;6ea33c17933c910130d2905dd23f248d"
         },
         {
@@ -466,22 +467,6 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "uOx4WoHPKe5LbDsNX+u7yPwU6Ups0duUFWxZbQqPo2oF+jkgV7jbW6aOO1kS4+9PdDFoRHhRxKKvcUOgzloTKw==",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/PandaQ250703b.jpg;md5;6ea33c17933c910130d2905dd23f248d"
-        },
-        {
-            "key": "一碗",
-            "name": "一碗(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "cOS1UvSbYM3xW1jXF4QBcYkSAhpFDDoh7c53wGBZEyxDhNunH+Feq+RreiUkQsV1",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/PandaQ250703b.jpg;md5;6ea33c17933c910130d2905dd23f248d"
-        },
-        {
-            "key": "蔬菜",
-            "name": "蔬菜(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "II6EBjEX9APRjw9zkvfuusSMPTiiXvPm9pK9Zv0wFaq4AWWODp1x+otEA1t0ZFTSq+p0AmaiQvE9cq5Hdl/Vlg==",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/PandaQ250703b.jpg;md5;6ea33c17933c910130d2905dd23f248d"
         },
         {
