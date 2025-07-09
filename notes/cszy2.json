@@ -1,11 +1,11 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/f0617.jpg;md5;9b4406d5c1de4d695db13d5f771a835a",
-//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/f0617.jpg;md5;9b4406d5c1de4d695db13d5f771a835a",
-//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/f0617.jpg;md5;9b4406d5c1de4d695db13d5f771a835a",
-//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/f0617.jpg;md5;9b4406d5c1de4d695db13d5f771a835a",
-//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/f0617.jpg;md5;9b4406d5c1de4d695db13d5f771a835a",
-//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/f0617.jpg;md5;9b4406d5c1de4d695db13d5f771a835a",
-//  "spider": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/f0617.jpg;md5;9b4406d5c1de4d695db13d5f771a835a",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/f0701.jpg;md5;8432d174d72d5b608ae1bcd16d966847",
+//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/f0701.jpg;md5;8432d174d72d5b608ae1bcd16d966847",
+//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/f0701.jpg;md5;8432d174d72d5b608ae1bcd16d966847",
+//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/f0701.jpg;md5;8432d174d72d5b608ae1bcd16d966847",
+//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/f0701.jpg;md5;8432d174d72d5b608ae1bcd16d966847",
+//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/f0701.jpg;md5;8432d174d72d5b608ae1bcd16d966847",
+//  "spider": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/f0701.jpg;md5;8432d174d72d5b608ae1bcd16d966847",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -58,6 +58,18 @@
             "name": "白白影视(SP)",
             "type": 3,
             "api": "csp_SbaibaiGuard",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "厂长",
+            "name": "厂长影视(SP)",
+            "type": 3,
+            "api": "csp_NewCzGuard",
+            "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -68,7 +80,7 @@
             "name": "原创影视(SP)",
             "type": 3,
             "api": "csp_YCyzGuard",
-            "timeout": 10,
+            "timeout": 30,
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -79,6 +91,7 @@
             "name": "苹果影视(SP)",
             "type": 3,
             "api": "csp_LiteAppleGuard",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -88,6 +101,7 @@
             "name": "糯米影视(SP)",
             "type": 3,
             "api": "csp_NmyswvGuard",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -97,6 +111,7 @@
             "name": "文采影视(SP)",
             "type": 3,
             "api": "csp_JpysGuard",
+            "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -107,7 +122,7 @@
             "name": "溢彩(SP)",
             "type": 3,
             "api": "csp_AppSxGuard",
-            "timeout": 10,
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -118,6 +133,7 @@
             "name": "LibVio(SP)",
             "type": 3,
             "api": "csp_LibvioGuard",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -131,27 +147,18 @@
             "name": "在线之家(SP)",
             "type": 3,
             "api": "csp_ZxzjGuard",
-            "timeout": 10,
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.zxzjhd.com/"
         },
         {
-            "key": "厂长",
-            "name": "厂长影视(SP)",
-            "type": 3,
-            "api": "csp_NewCzGuard",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_Bttwo",
             "name": "Bttwo(SP)",
             "type": 3,
             "api": "csp_BttwooGuard",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -161,6 +168,7 @@
             "name": "低端影视(SP)",
             "type": 3,
             "api": "csp_DdrkGuard",
+            "timeout": 15,
             "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
@@ -171,6 +179,7 @@
             "name": "萌米影视(SP)",
             "type": 3,
             "api": "csp_AppTTGuard",
+            "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -182,6 +191,7 @@
             "name": "热播影视(SP)",
             "type": 3,
             "api": "csp_AppTTGuard",
+            "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -193,6 +203,7 @@
             "name": "水星(SP)",
             "type": 3,
             "api": "csp_AppSxGuard",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -203,7 +214,7 @@
             "name": "即看(SP)",
             "type": 3,
             "api": "csp_AppSxGuard",
-            "timeout": 10,
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
@@ -214,6 +225,7 @@
             "name": "欢视影视(SP)",
             "type": 3,
             "api": "csp_AppTTGuard",
+            "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -225,7 +237,7 @@
             "name": "Auete影院(SP)",
             "type": 3,
             "api": "csp_AueteGuard",
-            "timeout": 10,
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -236,6 +248,7 @@
             "name": "荐片(SP)",
             "type": 3,
             "api": "csp_JPJGuard",
+            "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -246,6 +259,7 @@
             "name": "新6V磁力(慎用)",
             "type": 3,
             "api": "csp_SixVGuard",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
@@ -256,6 +270,7 @@
             "name": "动漫巴士(SP)",
             "type": 3,
             "api": "csp_Dm84Guard",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -265,6 +280,7 @@
             "name": "异世界动漫(SP)",
             "type": 3,
             "api": "csp_YsjGuard",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -274,6 +290,7 @@
             "name": "Anime动漫(SP)",
             "type": 3,
             "api": "csp_Anime1Guard",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -283,6 +300,7 @@
             "name": "926看球(SP)",
             "type": 3,
             "api": "csp_kanqiu926Guard",
+            "timeout": 15,
             "searchable": 0,
             "changeable": 0,
             "style": {
@@ -294,6 +312,7 @@
             "name": "88看球(SP)",
             "type": 3,
             "api": "csp_Sir88Guard",
+            "timeout": 15,
             "searchable": 0,
             "changeable": 0,
             "style": {
@@ -305,6 +324,7 @@
             "name": "看球直播(SP)",
             "type": 3,
             "api": "csp_KanqiuGuard",
+            "timeout": 15,
             "searchable": 0,
             "changeable": 0,
             "style": {
@@ -2731,43 +2751,27 @@
             "name": "Bttwo(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib3/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "playerType": 1,
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/js/bttwo.js"
         },
         {
-            "key": "csp_js_荐片2",
-            "name": "荐片2(js)",
+            "key": "csp_js_荐片",
+            "name": "荐片(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib3/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "playerType": 1,
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/js/jp3.js"
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/js/荐片[优].js"
         },
         {
             "key": "drpy_磁力熊",
             "name": "磁力熊(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib3/drpy2.min.js",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/js/磁力熊.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/js/磁力熊.js"
         },
         {
             "key": "drpy_腾腾",
             "name": "腾腾(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib3/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/js/ttt.js"
         },
         {
@@ -2775,10 +2779,6 @@
             "name": "果果(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib3/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/js/guoguo.js"
         },
         {
@@ -2828,8 +2828,6 @@
             "name": "动漫岛(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib3/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/js/动漫岛.js"
         },
         {
@@ -2837,19 +2835,13 @@
             "name": "漫次元(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib3/drpy2.min.js",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/js/漫次元.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/js/漫次元.js"
         },
         {
             "key": "drpy_56动漫",
             "name": "56动漫(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib3/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/js/56DM.js"
         },
         {
@@ -2857,9 +2849,6 @@
             "name": "爱弹幕动漫(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib3/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/js/ADM.js"
         },
         {
@@ -2874,9 +2863,6 @@
             "name": "去看吧(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib3/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/js/去看吧.js"
         },
         {
@@ -2884,9 +2870,6 @@
             "name": "4K影院(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib3/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/js/4K影院.js"
         },
         {
@@ -2894,10 +2877,6 @@
             "name": "星芽短剧(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib3/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/js/星芽短剧.js"
         },
         {
@@ -3165,6 +3144,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
+        },
+        {
+            "key": "艾旦影视",
+            "name": "艾旦影视(xml)",
+            "type": 1,
+            "api": "https://www.lovedan.net/api.php/provide/vod/"
+        },
+        {
+            "key": "四圈影视",
+            "name": "四圈影视(xml)",
+            "type": 1,
+            "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
         },
         {
             "key": "金鹰资源",
@@ -3677,7 +3668,7 @@
             "type": 3,
             "playerType": 1,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/ftyjs/直播转点播.js",
-            "ext": "看电视$http://8.138.7.223/51.txt#肥猫$https://6296.kstore.vip/25.txt#百宝箱$https://live.iptv365.org/live.m3u&&&https://api.likepoems.com/img/mc"
+            "ext": "看电视$http://8.138.7.223/51.php#肥猫$https://6296.kstore.vip/25.txt#百宝箱$https://live.iptv365.org/live.m3u&&&https://api.likepoems.com/img/mc"
         },
         {
             "key": "直播转点播",
@@ -3793,7 +3784,22 @@
         {
             "name": "巧技2",
             "type": 1,
-            "url": "https://zy.qiaoji8.com/xiafan.php?url="
+            "url": "https://zy.qiaoji8.com/xiafan.php?url=",
+            "ext": {
+                "flag": [
+                    "QD4K",
+                    "iyf",
+                    "duanju",
+                    "gzcj",
+                    "GTV",
+                    "GZYS",
+                    "weggz",
+                    "Ace"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
         },
         {
             "name": "虾米",
@@ -4072,7 +4078,7 @@
         {
             "name": "看电视呗",
             "type": 0,
-            "url": "http://8.138.7.223/51.txt",
+            "url": "http://8.138.7.223/51.php",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.v1.mk/logo/{name}.png"
         },
@@ -4111,6 +4117,14 @@
         },
         {
             "name": "fulei",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fuleishu/ceshi/main/aptv.m3u",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.iill.top/logo/{name}.png",
+            "ua": "okhttp/3.15,AptvPlayer/1.4.0"
+        },
+        {
+            "name": "fulei2",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fuleishu/ceshi/main/zhibo1.txt"
         },
@@ -4245,6 +4259,12 @@
             "type": 0,
             "url": "http://iptv.huohuoaa.tech/jiekou/live.txt",
             "ua": "Herissmon/2016"
+        },
+        {
+            "name": "cluntop",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/cluntop/sh/main/iptv.m3u",
+            "ua": "okhttp/4.1.0"
         },
         {
             "name": "星海",
