@@ -173,7 +173,8 @@ class Spider(Spider):
         return binascii.hexlify(random_bytes).decode()
 
     def getohost(self):
-        url='https://bianyuan001.oss-cn-beijing.aliyuncs.com/huidu1.0.0.json'
+#        url='https://bianyuan001.oss-cn-beijing.aliyuncs.com/huidu1.0.0.json'
+        url='https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/ext/huidu1.0.0.json'
         response = self.fetch(url, headers=self.headers).json()
         return response['servers'][0]
 
