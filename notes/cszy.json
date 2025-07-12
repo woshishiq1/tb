@@ -406,14 +406,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/PandaQ0710.jpg;md5;2199d0eb0e8a03acb35b935c088ef6db"
         },
         {
-            "key": "csp_Wetv",
-            "name": "尘落影视(SP)",
-            "type": 3,
-            "api": "csp_Wetv",
-            "ext": "https://v.wetv.wang",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/PandaQ0710.jpg;md5;2199d0eb0e8a03acb35b935c088ef6db"
-        },
-        {
             "key": "肥猫",
             "name": "肥猫(SP)",
             "type": 3,
