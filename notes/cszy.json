@@ -805,6 +805,18 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/咖啡.py"
         },
         {
+            "key": "iptv3452",
+            "name": "iptv3452(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/iptv3452.py"
+        },
+        {
+            "key": "iptv3453",
+            "name": "iptv3453(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/iptv3453.py"
+        },
+        {
             "key": "咖啡2",
             "name": "咖啡2",
             "type": 3,
