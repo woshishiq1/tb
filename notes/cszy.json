@@ -3083,6 +3083,11 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fuleishu/ceshi/main/xiyou12.txt"
         },
         {
+            "name": "iptv345",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/iptv3452.py"
+        },
+        {
             "name": "易发",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fafa002/yf2025/main/yiyifafa.txt"
