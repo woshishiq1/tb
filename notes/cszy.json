@@ -3055,9 +3055,7 @@
         {
             "name": "雷蒙",
             "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.v1.mk/logo/{name}.png"
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt"
         },
         {
             "name": "雄健",
@@ -3081,11 +3079,6 @@
             "name": "xiyou",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fuleishu/ceshi/main/xiyou12.txt"
-        },
-        {
-            "name": "iptv345",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/iptv3452.py"
         },
         {
             "name": "易发",
@@ -3164,8 +3157,7 @@
             "name": "diyp",
             "type": 0,
             "url": "http://iptv.diyp.site/diyp.php",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "ua": "okhttp/3.15"  
+            "ua": "okhttp/3.15"
         },
         {
             "name": "趣看",
