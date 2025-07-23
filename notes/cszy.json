@@ -1177,7 +1177,7 @@
             "ext": {
                 "请求头": "手机",
                 "分类url": "https://www.df211.com/vod-list-id-{cateId}-year-{year}-area-{area}-pg-{catePg}.html",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$25"
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$25"
             },
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
@@ -1187,6 +1187,17 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/XBPQ/西瓜.json",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "稀饭",
+            "name": "稀饭(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.xifanys.com/vod/show/id/{cateId}/page/{catePg}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
+            },
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
