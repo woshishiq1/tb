@@ -3124,7 +3124,8 @@
         {
             "name": "4GTV",
             "type": 0,
-            "url": "https://judy.diver.eu.org/m3u/4GTV-TS.m3u"
+            "url": "https://judy.diver.eu.org/m3u/4GTV-TS.m3u",
+            "ua": "judy/5.2.1"
         },
         {
             "name": "robyang",
