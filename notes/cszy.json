@@ -593,7 +593,7 @@
             "key": "csp_Duanju",
             "name": "短剧(SP)",
             "type": 3,
-            "api": "csp_Duanju",
+            "api": "csp_DuanJu",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0722.png;md5;349a237778a3ce50218e6c8d3b3e474d"
         },
         {
@@ -1545,18 +1545,18 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/official/爱.py"
         },
         {
-            "key": "彼岸(js)",
-            "name": "彼岸(js)",
+            "key": "灵虎(js)",
+            "name": "灵虎(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/drpy2.min.js",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/AppGet.js?type=url&params=https://mfsp33.top$1234567887654321$1234567887654321"
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/AppGet.js?type=url&params=http://app.555618.xyz:1766$#getapp@TMD@2025$#getapp@TMD@2025"
         },
         {
-            "key": "瓜萌(js)",
-            "name": "瓜萌(js)",
+            "key": "米诺(js)",
+            "name": "米诺(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/drpy2.min.js",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/AppGet.js?type=url&params=https://www.guahd.com$f2A7D4B9E8C16531$f2A7D4B9E8C16531"
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/AppGet.js?type=url&params=http://www.milkidc.cn$20c79c979da8db0f$20c79c979da8db0f"
         },
         {
             "key": "耐看(js)",
