@@ -1109,13 +1109,6 @@
             "ext": "http://jxfmax.juxiafan.com/icciu_api.php/v1.vod"
         },
         {
-            "key": "起点",
-            "name": "起点(V2)",
-            "type": 3,
-            "api": "csp_AppYsGuard",
-            "ext": "http://172.83.156.150:1010/api.php/app/"
-        },
-        {
             "key": "空城",
             "name": "空城(V2)",
             "type": 3,
