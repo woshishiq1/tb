@@ -1195,6 +1195,9 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
+                "搜索url": "https://www.xifanys.com/vod/search/wd/{wd}.html",
+                "线路数组": "class=\"module-tab-item tab-item&&</div>",
+                "线路标题": "<span>&&</span>",
                 "分类url": "https://www.xifanys.com/vod/show/id/{cateId}/page/{catePg}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
             },
