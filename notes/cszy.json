@@ -552,11 +552,49 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/PandaQ0715.jpg;md5;59185e76c5cf42b7a5465fbd2c15af06"
         },
         {
+            "key": "幕启",
+            "name": "幕启(SP)",
+            "type": 3,
+            "api": "csp_AppSy",
+            "ext": "iUYplHbim/qVptUBrzCuqk72erYn+xHvZVGawkGUOqtLGtiWlDcWpUagYzdfPYeECbG+IjVf7Mhz2ZqZ70k6X72tkUhQDNEpIN/XScTGlUE=",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/PandaQ0715.jpg;md5;59185e76c5cf42b7a5465fbd2c15af06"
+        },
+        {
+            "key": "追忆",
+            "name": "追忆(SP)",
+            "type": 3,
+            "api": "csp_AppSy",
+            "ext": "9rfWRaAx60J+W5F+j6agt6AHU3NkRl7m8WqfWIBU/MebSZgzY2wnsXwmAIMEYVqMzsnqr46bOn1q4JV/UJAKUVF6NUo2Xg8qcHgXrA63RWM=",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/PandaQ0715.jpg;md5;59185e76c5cf42b7a5465fbd2c15af06"
+        },
+        {
             "key": "csp_FreeOk",
             "name": "FreeOk(SP)",
             "type": 3,
             "api": "csp_FreeOk",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0722.png;md5;349a237778a3ce50218e6c8d3b3e474d"
+        },
+        {
+            "key": "csp_农民",
+            "name": "农民(SP)",
+            "type": 3,
+            "api": "csp_Wwys",
+            "ext": "https://www.wwgz.cn",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0722.png;md5;349a237778a3ce50218e6c8d3b3e474d"
+        },
+        {
+            "key": "csp_Zzys",
+            "name": "子子(SP)",
+            "type": 3,
+            "api": "csp_Zzys",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0722.png;md5;349a237778a3ce50218e6c8d3b3e474d"
+        },
+        {
+            "key": "csp_Duanju",
+            "name": "短剧(SP)",
+            "type": 3,
+            "api": "csp_Duanju",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0722.png;md5;349a237778a3ce50218e6c8d3b3e474d"
         },
         {
             "key": "火猫",
@@ -3079,6 +3117,11 @@
             "name": "judy-gotv",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/judy-gotv/iptv/main/smart2025.txt"
+        },
+        {
+            "name": "4GTV",
+            "type": 0,
+            "url": "https://judy.diver.eu.org/m3u/4GTV-TS.m3u"
         },
         {
             "name": "robyang",
