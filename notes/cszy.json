@@ -3117,6 +3117,12 @@
             "ua": "Goiptv/0.0.1"
         },
         {
+            "name": "judy2",
+            "type": 0,
+            "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
+            "ua": "Goiptv/0.0.1"
+        },
+        {
             "name": "judy-gotv",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/judy-gotv/iptv/main/smart2025.txt",
@@ -3126,7 +3132,7 @@
             "name": "4GTV",
             "type": 0,
             "url": "https://judy.diver.eu.org/m3u/4GTV-TS.m3u",
-            "ua": "Goiptv/0.0.1"
+            "ua": "xieanqishisb/0.0.1"
         },
         {
             "name": "robyang",
