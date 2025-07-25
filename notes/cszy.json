@@ -1045,6 +1045,18 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/甜圈短剧.py"
         },
         {
+            "key": "爱看",
+            "name": "爱看(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/爱看短剧.py"
+        },
+        {
+            "key": "锦鲤",
+            "name": "锦鲤(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/锦鲤短剧.py"
+        },
+        {
             "key": "csp_xpath_laowang",
             "name": "老王影视(XPF)",
             "type": 3,
