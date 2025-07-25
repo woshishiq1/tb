@@ -378,14 +378,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/PandaQ0715.jpg;md5;59185e76c5cf42b7a5465fbd2c15af06"
         },
         {
-            "key": "csp_AppXY",
-            "name": "星芽短剧(SP)",
-            "type": 3,
-            "api": "csp_AppXY",
-            "ext": "https://xvapp.xingya.com.cn",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/PandaQ0715.jpg;md5;59185e76c5cf42b7a5465fbd2c15af06"
-        },
-        {
             "key": "肥猫",
             "name": "肥猫(SP)",
             "type": 3,
@@ -591,6 +583,14 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0722.png;md5;349a237778a3ce50218e6c8d3b3e474d"
         },
         {
+            "key": "csp_AppXY",
+            "name": "星芽短剧(SP)",
+            "type": 3,
+            "api": "csp_AppXY",
+            "ext": "https://xvapp.xingya.com.cn",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0722.png;md5;349a237778a3ce50218e6c8d3b3e474d"
+        },
+        {
             "key": "csp_Duanju",
             "name": "短剧(SP)",
             "type": 3,
@@ -667,14 +667,6 @@
             "type": 3,
             "api": "csp_Muou",
             "ext": "7lj763gg402i7942463j9j9jg1499j87l9g9i413il8gqiaoji20g7g4919j3g019296lk9351hh3k5gg38lj0754il3jg",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662"
-        },
-        {
-            "key": "柠檬",
-            "name": "柠檬(SP)",
-            "type": 3,
-            "api": "csp_Nmvod",
-            "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662"
         },
         {
@@ -1700,7 +1692,7 @@
             "name": "稀饭2(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/drpy2.min.js",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/AppGet.js?type=url&params=https://xfapp-1305390065.cos.ap-guangzhou.myqcloud.com/getapp.txt$nKfZ8KX6JTNWRzTD$nKfZ8KX6JTNWRzTD"
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/AppGet.js?type=url&params=https://oldapp.xfconnect.top$nKfZ8KX6JTNWRzTD$nKfZ8KX6JTNWRzTD"
         },
         {
             "key": "次元(js)",
