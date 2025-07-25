@@ -1692,7 +1692,7 @@
             "name": "稀饭2(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/drpy2.min.js",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/AppGet.js?type=url&params=https://oldapp.xfconnect.top$nKfZ8KX6JTNWRzTD$nKfZ8KX6JTNWRzTD"
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/AppGet.js?type=url&params=https://oldapp.xfconnect.top$1yZ2Spn9krnzVKoC$1yZ2Spn9krnzVKoC"
         },
         {
             "key": "次元(js)",
@@ -1707,6 +1707,13 @@
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/drpy2.min.js",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/AppGet.js?type=url&params=https://qjappcms.acg.party$AmtMYFCJDPoTlK7z$AmtMYFCJDPoTlK7z"
+        },
+        {
+            "key": "丫丫(js)",
+            "name": "丫丫(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/AppGet.js?type=url&params=http://tv.yy-fun.cc$qkxnwkfjwpcnwycl$qkxnwkfjwpcnwycl"
         },
         {
             "key": "米诺(js)",
@@ -3273,7 +3280,7 @@
             "name": "4GTV",
             "type": 0,
             "url": "https://judy.diver.eu.org/m3u/4GTV-TS.m3u",
-            "ua": "Goiptv/0.0.1"
+            "ua": "judy/5.2.1"
         },
         {
             "name": "robyang",
