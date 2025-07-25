@@ -3357,6 +3357,16 @@
             "url": "https://smart.pendy.dpdns.org/m3u/Smart.m3u"
         },
         {
+            "name": "hulanlu",
+            "type": 0,
+            "url": "http://txt.kesug.com/users/hulanlu.txt"
+        },
+        {
+            "name": "NOW",
+            "type": 0,
+            "url": "http://txt.kesug.com/users/NOW.txt"
+        },
+        {
             "name": "百宝箱",
             "type": 0,
             "url": "https://live.iptv365.org/live.m3u",
