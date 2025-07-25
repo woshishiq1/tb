@@ -1674,6 +1674,27 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/official/爱.py"
         },
         {
+            "key": "蓝光(js)",
+            "name": "蓝光(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/AppGet.js?type=url&params=http://122.228.193.2:9654$ca94b06ca3c7d80e$ca94b06ca3c7d80e"
+        },
+        {
+            "key": "豆丁(js)",
+            "name": "豆丁(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/AppGet.js?type=url&params=https://vip.123pan.cn/1848451100/zl/xfdd.txt$xasdasdqwertyuio$xasdasdqwertyuio"
+        },
+        {
+            "key": "灵虎(js)",
+            "name": "灵虎(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/AppGet.js?type=url&params=https://bind.315999.xyz/89.txt$#getapp@TMD@2025$#getapp@TMD@2025"
+        },
+        {
             "key": "曼波(js)",
             "name": "曼波(js)",
             "type": 3,
