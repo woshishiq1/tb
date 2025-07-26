@@ -3372,6 +3372,16 @@
             "url": "http://txt.kesug.com/users/NOW.txt"
         },
         {
+            "name": "斯玛特",
+            "type": 0,
+            "url": "https://tvbot.dpdns.org/tv.m3u"
+        },
+        {
+            "name": "bxtv",
+            "type": 0,
+            "url": "http://bx.757888.xyz/bxtv.txt"
+        },
+        {
             "name": "百宝箱",
             "type": 0,
             "url": "https://live.iptv365.org/live.m3u",
