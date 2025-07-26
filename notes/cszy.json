@@ -311,6 +311,20 @@
             }
         },
         {
+            "key": "港迷",
+            "name": "港迷(SP)",
+            "type": 3,
+            "api": "csp_AppSK",
+            "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/jar_fty250223.jar;md5;9a4e27dc8671d07587f5cb752ea80fd3"
+        },
+        {
+            "key": "每日港剧",
+            "name": "每日港剧(xml)",
+            "type": 1,
+            "api": "https://mrgj.cc/api.php/provide/vod/"
+        },
+        {
             "key": "csp_Tvyb",
             "name": "TVB云播(SP)",
             "type": 3,
@@ -669,20 +683,6 @@
             "api": "csp_Muou",
             "ext": "7lj763gg402i7942463j9j9jg1499j87l9g9i413il8gqiaoji20g7g4919j3g019296lk9351hh3k5gg38lj0754il3jg",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662"
-        },
-        {
-            "key": "港迷",
-            "name": "港迷(SP)",
-            "type": 3,
-            "api": "csp_AppSK",
-            "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/jar_fty250223.jar;md5;9a4e27dc8671d07587f5cb752ea80fd3"
-        },
-        {
-            "key": "每日港剧",
-            "name": "每日港剧(xml)",
-            "type": 1,
-            "api": "https://mrgj.cc/api.php/provide/vod/"
         },
         {
             "key": "csp_xpath_tvyun",
