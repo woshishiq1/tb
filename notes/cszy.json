@@ -2155,6 +2155,16 @@
             }
         },
         {
+            "key": "csp_xml_黑木2",
+            "name": "黑木2(xml)",
+            "type": 1,
+            "api": "https://heimuer.ggff.net/api.php/tvbox",
+            "playUrl": "json:https://tvbot.dpdns.org/noads.php?url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+            }
+        },
+        {
             "key": "csp_xml_墨白",
             "name": "墨白影视(xml)",
             "type": 1,
