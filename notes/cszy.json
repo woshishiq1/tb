@@ -3559,7 +3559,7 @@
         {
             "name": "catvodTV",
             "type": 0,
-            "url": "http://iptv.catvod.com/tv.m3u",
+            "url": "https://iptv.catvod.com/tv.m3u",
             "ua": "okhttp/5.0.0-alpha.14",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.v1.mk/logo/{name}.png"
