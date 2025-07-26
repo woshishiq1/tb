@@ -579,7 +579,6 @@
             "name": "FreeOk(SP)",
             "type": 3,
             "api": "csp_FreeOk",
-            "ext": "https://www.freeok.ac",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0722.png;md5;349a237778a3ce50218e6c8d3b3e474d"
         },
         {
