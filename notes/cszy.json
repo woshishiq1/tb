@@ -767,6 +767,12 @@
             "api": "https://13826.kstore.space/jubaba.py"
         },
         {
+            "key": "剧霸2",
+            "name": "剧霸2(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/py_jubaba.py"
+        },
+        {
             "key": "UPUP",
             "name": "UPUP(py)",
             "type": 3,
