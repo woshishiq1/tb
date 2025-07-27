@@ -863,6 +863,18 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/lingdu.py"
         },
         {
+            "key": "想看",
+            "name": "想看(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/想看影视.py"
+        },
+        {
+            "key": "追星",
+            "name": "追星(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/追星影视.py"
+        },
+        {
             "key": "csp_海马",
             "name": "海马(py)",
             "type": 3,
@@ -1680,6 +1692,27 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/official/爱.py"
         },
         {
+            "key": "小野(js)",
+            "name": "小野(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/AppGet.js?type=url&params=https://appcms.xy4k.com$7SDWjknU34zqFbVr$7SDWjknU34zqFbVr"
+        },
+        {
+            "key": "魔方(js)",
+            "name": "魔方(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/AppGet.js?type=url&params=http://45.192.110.211:1314$1234567887654321$1234567887654321"
+        },
+        {
+            "key": "橘子(js)",
+            "name": "橘子(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/AppGet.js?type=url&params=https://api1.bffree.cn$2015692015692015$2015692015692015"
+        },
+        {
             "key": "蓝光(js)",
             "name": "蓝光(js)",
             "type": 3,
@@ -1699,6 +1732,13 @@
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/drpy2.min.js",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/AppGet.js?type=url&params=https://guahd.com/$f2A7D4B9E8C16531$f2A7D4B9E8C16531"
+        },
+        {
+            "key": "白蛇(js)",
+            "name": "白蛇(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/AppGet.js?type=url&params=http://121.62.22.204:9876$f5e2tx53ykp6s2c9$f5e2tx53ykp6s2c9"
         },
         {
             "key": "曼波(js)",
@@ -2280,7 +2320,7 @@
             ]
         },
         {
-            "key": "csp_xml_suoni",
+            "key": "csp_xml_索尼",
             "name": "索尼(xml)",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
@@ -2323,8 +2363,8 @@
             ]
         },
         {
-            "key": "csp_xml_suoni2",
-            "name": "suoni资源(xml)",
+            "key": "csp_xml_suoni",
+            "name": "suoni(xml)",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
             "playUrl": "https://www.snplayer.com/?url=",
@@ -2338,16 +2378,6 @@
             "type": 1,
             "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
             "playUrl": "json:https://tvbot.dpdns.org/noads.php?url="
-        },
-        {
-            "key": "木耳2",
-            "name": "木耳2(xml)",
-            "type": 1,
-            "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
-            "playUrl": "json:https://hoplayer.com/index.html?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
         },
         {
             "key": "艾旦影视",
