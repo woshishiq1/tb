@@ -2147,16 +2147,7 @@
         },
         {
             "key": "csp_xml_黑木",
-            "name": "黑木影视(xml)",
-            "type": 1,
-            "api": "https://heimuer.ggff.net/api.php/tvbox",
-            "header": {
-                "User-Agent": "Lavf/58.12.100"
-            }
-        },
-        {
-            "key": "csp_xml_黑木2",
-            "name": "黑木2(xml)",
+            "name": "黑木(xml)",
             "type": 1,
             "api": "https://heimuer.ggff.net/api.php/tvbox",
             "playUrl": "json:https://tvbot.dpdns.org/noads.php?url=",
@@ -2166,7 +2157,7 @@
         },
         {
             "key": "csp_xml_墨白",
-            "name": "墨白影视(xml)",
+            "name": "墨白(xml)",
             "type": 1,
             "api": "https://nm.xxxc137.top/api.php/provide/vod/"
         },
@@ -2179,7 +2170,7 @@
         },
         {
             "key": "csp_xml_如意",
-            "name": "如意资源(xml)",
+            "name": "如意(xml)",
             "type": 1,
             "api": "https://www.ryzy.tv/api.php/provide/vod/",
             "searchable": 1,
@@ -2249,7 +2240,7 @@
         },
         {
             "key": "csp_xml_火狐",
-            "name": "火狐资源(xml)",
+            "name": "火狐(xml)",
             "type": 1,
             "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list"
         },
@@ -2290,7 +2281,7 @@
         },
         {
             "key": "csp_xml_suoni",
-            "name": "索尼资源(xml)",
+            "name": "索尼(xml)",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -2340,6 +2331,13 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 1
+        },
+        {
+            "key": "木耳",
+            "name": "木耳(xml)",
+            "type": 1,
+            "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
+            "playUrl": "json:https://tvbot.dpdns.org/noads.php?url="
         },
         {
             "key": "木耳资源",
