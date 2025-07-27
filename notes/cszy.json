@@ -863,12 +863,6 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/lingdu.py"
         },
         {
-            "key": "想看",
-            "name": "想看(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/想看影视.py"
-        },
-        {
             "key": "追星",
             "name": "追星(py)",
             "type": 3,
