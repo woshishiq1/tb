@@ -1740,7 +1740,7 @@
             "name": "白蛇(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/drpy2.min.js",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/AppGet.js?type=url&params=http://121.62.22.204:9876$f5e2tx53ykp6s2c9$f5e2tx53ykp6s2c9"
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/AppGet.js?type=url&params=http://121.62.22.204:9876$n3l2tx5jdkp9s2c8$n3l2tx5jdkp9s2c8"
         },
         {
             "key": "曼波(js)",
@@ -2373,6 +2373,19 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 1
+        },
+        {
+            "key": "csp_xml_七七",
+            "name": "七七(xml)",
+            "type": 1,
+            "api": "http://6.qqqtv.top/api.php/provide/vod/",
+            "categories": [
+                "推荐",
+                "电影",
+                "电视剧",
+                "综艺",
+                "动漫"
+            ]
         },
         {
             "key": "木耳",
