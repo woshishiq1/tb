@@ -2158,6 +2158,12 @@
             "ext": "aHR0cDovL2dldC5vcGVuLm1pZnVuLm9yZy9hcGkucGhwfEdFVE1JRlVOR0VJTUlGVU58R0VUTUlGVU5HRUlNSUZVTg=="
         },
         {
+            "key": "黑木耳",
+            "name": "黑木耳",
+            "type": 4,
+            "api": "https://zhangqun66.com/225.php"
+        },
+        {
             "key": "剧探",
             "name": "剧探",
             "type": 4,
