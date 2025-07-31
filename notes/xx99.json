@@ -148,6 +148,13 @@
             "searchable": 1
         },
         {
+            "key": "葡萄",
+            "name": "葡萄",
+            "type": 1,
+            "api": "https://www.jiujiure00.com/api.php/provide/vod/",
+            "searchable": 1
+        },
+        {
             "key": "apilsbzy1",
             "name": "色逼资源",
             "type": 1,
