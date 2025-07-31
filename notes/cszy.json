@@ -2164,6 +2164,18 @@
             "api": "https://zhangqun66.com/225.php"
         },
         {
+            "key": "小苹果",
+            "name": "小苹果",
+            "type": 4,
+            "api": "https://zhangqun66.com/pingguo.php"
+        },
+        {
+            "key": "小旺旺",
+            "name": "小旺旺",
+            "type": 4,
+            "api": "https://zhangqun66.com/ww.php"
+        },
+        {
             "key": "剧探",
             "name": "剧探",
             "type": 4,
