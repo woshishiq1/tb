@@ -232,7 +232,14 @@
             "key": "py_51吸瓜",
             "name": "51吸瓜(py)",
             "type": 3,
-            "api": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/51吸瓜.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/51吸瓜2.py"
+        },
+        {
+            "key": "py_javxx",
+            "name": "py_javxx",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/javxx.py",
+            "searchable": 1
         },
         {
             "key": "py_色播聚合",
