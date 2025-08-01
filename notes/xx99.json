@@ -1,7 +1,7 @@
 {
     "spider": "https://www.252035.xyz/p/pg.jar",
     "wallpaper": "https://www.252035.xyz/imgs",
-    "logo": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/imgs/pg.gif",
+    "logo": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/imgs/pg.gif",
     "sites": [
         {
             "key": "量子",
@@ -202,7 +202,7 @@
             "type": 3,
             "api": "csp_XMVideo",
             "searchable": 1,
-            "jar": "https://slink.ltd/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
         },
         {
             "key": "花都",
@@ -210,16 +210,16 @@
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
-            "jar": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
-            "ext": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/花都.json"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/XBPQ/花都.json"
         },
         {
             "key": "百万破解",
             "name": "百万破解",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
-            "ext": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/百万.json"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/XBPQ/百万.json"
         },
         {
             "key": "ckzy",
@@ -232,7 +232,7 @@
             "key": "py_51吸瓜",
             "name": "51吸瓜(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/51吸瓜2.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/51吸瓜2.py"
         },
         {
             "key": "py_javxx",
@@ -245,14 +245,14 @@
             "key": "py_色播聚合",
             "name": "py_色播聚合",
             "type": 3,
-            "api": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/py/py_色播聚合.py",
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/py/py_色播聚合.py",
             "searchable": 1
         },
         {
             "key": "lav",
             "name": "lav",
             "type": 3,
-            "api": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/py/py_lav.py",
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/py/py_lav.py",
             "searchable": 1
         },
         {
@@ -260,8 +260,8 @@
             "name": "电视直播",
             "type": 3,
             "searchable": 0,
-            "api": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/js/live2vod.js",
-            "ext": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/json/feimaolive.json"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/js/live2vod.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/json/feimaolive.json"
         },
         {
             "key": "精品资源",
@@ -392,24 +392,24 @@
             "name": "kissav(飞)",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
-            "ext": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/kisd.json"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/XBPQ/kisd.json"
         },
         {
             "key": "pronlulu",
             "name": "pronlulu(飞)",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
-            "ext": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/pronlulu.json"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/XBPQ/pronlulu.json"
         },
         {
             "key": "csp_pornhub",
             "name": "Pornhub(飞)",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XYQ.jar",
-            "ext": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/json/pornhub.json",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XYQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/json/pornhub.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6,
@@ -421,7 +421,7 @@
             "name": "Netflav(飞)",
             "type": 3,
             "api": "csp_Netflav",
-            "jar": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/netflav.jar",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/netflav.jar",
             "searchable": 1
         },
         {
@@ -473,7 +473,7 @@
         {
             "name": "LIVEfl",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/zeee-u/lzh06/main/fl.m3u",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/zeee-u/lzh06/main/fl.m3u",
             "playerType": 1,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -481,7 +481,7 @@
         {
             "name": "天美传媒816",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/天美传媒816.txt",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/天美传媒816.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -489,7 +489,7 @@
         {
             "name": "果冻传媒816",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/果冻传媒816.txt",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/果冻传媒816.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -497,7 +497,7 @@
         {
             "name": "麻豆传媒816",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/麻豆传媒816.txt",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/麻豆传媒816.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -505,7 +505,7 @@
         {
             "name": "星空传媒816",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/星空传媒816.txt",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/星空传媒816.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -513,7 +513,7 @@
         {
             "name": "精东影业816",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/精东影业816.txt",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/精东影业816.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -521,7 +521,7 @@
         {
             "name": "国产传媒",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/国产传媒.m3u",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/国产传媒.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -529,7 +529,7 @@
         {
             "name": "pron",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/pron.m3u",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/pron.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -537,7 +537,7 @@
         {
             "name": "几个传媒",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/几个传媒.txt",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/几个传媒.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -545,7 +545,7 @@
         {
             "name": "成人传媒",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/成人传媒.txt",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/成人传媒.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -553,7 +553,7 @@
         {
             "name": "181818",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/181818.txt",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/181818.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -561,7 +561,7 @@
         {
             "name": "live18",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/live18.txt",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/live18.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -569,7 +569,7 @@
         {
             "name": "花活",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/花活.txt",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/花活.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -577,7 +577,7 @@
         {
             "name": "18资源丰富",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/18资源丰富.txt",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/18资源丰富.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -585,7 +585,7 @@
         {
             "name": "至尊",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/至尊.m3u",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/至尊.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -593,7 +593,7 @@
         {
             "name": "终极",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/终极.txt",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/终极.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -601,7 +601,7 @@
         {
             "name": "Jable嗅探",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/Jable嗅探.txt",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/Jable嗅探.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -609,7 +609,7 @@
         {
             "name": "vip源",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/vip源.txt",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/vip源.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -617,7 +617,7 @@
         {
             "name": "成人",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/维护成人.txt",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/维护成人.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -625,7 +625,7 @@
         {
             "name": "18+",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/18+.txt",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/18+.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -633,7 +633,7 @@
         {
             "name": "全球",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/全球.txt",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/全球.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -641,7 +641,7 @@
         {
             "name": "无敌",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/无敌.m3u",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/无敌.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -649,7 +649,7 @@
         {
             "name": "经典",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/经典.m3u",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/经典.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -657,7 +657,7 @@
         {
             "name": "成人电影",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/成人电影.txt",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/成人电影.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -665,7 +665,7 @@
         {
             "name": "珍藏",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/珍藏.m3u",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/珍藏.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -673,7 +673,7 @@
         {
             "name": "绝品",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/绝品.txt",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/绝品.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -681,7 +681,7 @@
         {
             "name": "美腿丝袜",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/美腿丝袜.txt",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/美腿丝袜.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -704,7 +704,7 @@
         },
         {
             "name": "zwrt",
-            "url": "https://slink.ltd/https://github.com/zwrt/IPTV/blob/Files/Adult.m3u",
+            "url": "https://gh.jasonzeng.dev/https://github.com/zwrt/IPTV/blob/Files/Adult.m3u",
             "type": 0,
             "ua": "okhttp/3.15"
         }
