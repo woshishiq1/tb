@@ -944,6 +944,18 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/云端APP.py"
         },
         {
+            "key": "爱壹帆",
+            "name": "爱壹帆(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/爱壹帆.py"
+        },
+        {
+            "key": "cnotv",
+            "name": "cnotv(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/cnotv.py"
+        },
+        {
             "key": "csp_py_荐片",
             "name": "荐片(py)",
             "type": 3,
@@ -1026,6 +1038,12 @@
             "name": "锦鲤(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/锦鲤短剧.py"
+        },
+        {
+            "key": "剧王",
+            "name": "剧王(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/剧王短剧.py"
         },
         {
             "key": "csp_xpath_laowang",
@@ -1181,6 +1199,14 @@
             "type": 3,
             "api": "csp_AppYsV2Guard",
             "ext": "http://99cms.jj99.icu:8199/api.php/app/"
+        },
+        {
+            "key": "粤漫之家",
+            "name": "粤漫之家(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/XBPQ/ymvid.json",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "老王影视",
