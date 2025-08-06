@@ -1201,14 +1201,6 @@
             "ext": "http://99cms.jj99.icu:8199/api.php/app/"
         },
         {
-            "key": "粤漫之家",
-            "name": "粤漫之家(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/XBPQ/ymvid.json",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
             "key": "老王影视",
             "name": "老王影视(XBPQ)",
             "type": 3,
@@ -3436,6 +3428,31 @@
             "name": "catvod_live",
             "type": 0,
             "url": "https://live.catvod.com/tv.m3u"
+        },
+        {
+            "name": "冰雪",
+            "type": 0,
+            "url": "https://bxtv.3a.ink/live.m3u"
+        },
+        {
+            "name": "ds65",
+            "type": 0,
+            "url": "https://ds65.tv1288.xyz/"
+        },
+        {
+            "name": "kesug",
+            "type": 0,
+            "url": "http://txt.kesug.com/users/HKTV.txt"
+        },
+        {
+            "name": "馆主",
+            "type": 0,
+            "url": "https://tv.132130.top/tv/馆主"
+        },
+        {
+            "name": "go8",
+            "type": 0,
+            "url": "http://go8.myartsonline.com/zx/0/dzh.txt"
         },
         {
             "name": "hulanlu",
