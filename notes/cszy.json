@@ -578,14 +578,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0806.jpg;md5;1d1c6d2fcf3b22dc69a0ca30134bd184"
         },
         {
-            "key": "csp_Knys",
-            "name": "快鸟(SP)",
-            "type": 3,
-            "api": "csp_Knys",
-            "ext": "https://www.knys.net",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0806.jpg;md5;1d1c6d2fcf3b22dc69a0ca30134bd184"
-        },
-        {
             "key": "猪猪",
             "name": "猪猪(SP)",
             "type": 3,
