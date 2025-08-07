@@ -204,8 +204,8 @@
             "type": 3,
             "api": "csp_AppSxGuard",
             "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+SLP183q3ik3cJDiAwlFdF8L6SIvrvc9LrpTyIg76T7QJZdEkWNj43wiSaA0TJyQpu2IF2jsSLWFx7WkAmG40hFxJ1tI+Jf+EVG8DtoDRcNi+TtVGULnWrSz3EWnVcxR3EJhXnrwYWe1kJtNW5txuHAO"
         },
@@ -523,6 +523,14 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/PandaQ0715.jpg;md5;59185e76c5cf42b7a5465fbd2c15af06"
         },
         {
+            "key": "追忆",
+            "name": "追忆(SP)",
+            "type": 3,
+            "api": "csp_AppSy",
+            "ext": "AUQ6gwosItxIVIl5lW4mhEtvhUCPptryd1HJ1YWlyhMUjanBk/MQ/w1C7FSy6t+ixWAXOVu69YmFiPrBGvM6iAGDIL6ietolI05Xt9wOc/k=",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/PandaQ0715.jpg;md5;59185e76c5cf42b7a5465fbd2c15af06"
+        },
+        {
             "key": "麻花",
             "name": "麻花(SP)",
             "type": 3,
@@ -531,11 +539,19 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/PandaQ0715.jpg;md5;59185e76c5cf42b7a5465fbd2c15af06"
         },
         {
+            "key": "csp_仓鼠",
+            "name": "仓鼠(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "/gX5OFmAD2ilw4e9hdCDHWY43M85ApN9TVuFibQAIiwfF6Z4kN93prb5cBiQMwYjG42EbId2Fq/AxX8MV52mkA==",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/PandaQ0715.jpg;md5;59185e76c5cf42b7a5465fbd2c15af06"
+        },
+        {
             "key": "csp_咖啡",
             "name": "咖啡(SP)",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "/gX5OFmAD2ilw4e9hdCDHWY43M85ApN9TVuFibQAIiwfF6Z4kN93prb5cBiQMwYjG42EbId2Fq/AxX8MV52mkA==",
+            "ext": "iCAfNu0lnzDbPNyRZNPADkQjEsRXYXbhzP+dNzKN1SEfbPPIOKvEKGUJbNHH/Enk8UofJl+f8LL+N/h69EZDaFMMPeCDLq9N1TV0aTDfIY89NkrX+nhIaX9d//xiiVns",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/PandaQ0715.jpg;md5;59185e76c5cf42b7a5465fbd2c15af06"
         },
         {
@@ -562,29 +578,11 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0806.jpg;md5;1d1c6d2fcf3b22dc69a0ca30134bd184"
         },
         {
-            "key": "csp_Zzys",
-            "name": "子子(SP)",
+            "key": "csp_Knys",
+            "name": "快鸟(SP)",
             "type": 3,
-            "api": "csp_Zzys",
+            "api": "csp_Knys",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0806.jpg;md5;1d1c6d2fcf3b22dc69a0ca30134bd184"
-        },
-        {
-            "key": "csp_xml_子子",
-            "name": "子子(xml)",
-            "type": 1,
-            "api": "http://www.ziziys.net/api.php/provide/vod/"
-        },
-        {
-            "key": "子子",
-            "name": "子子(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "请求头": "手机",
-                "分类url": "http://www.ziziys.net/vodshow/{cateId}-{area}-------{catePg}---.html",
-                "分类": "电影$1#电视剧$2#动漫$3"
-            },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "猪猪",
@@ -629,6 +627,22 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10"
         },
         {
+            "key": "酒猫",
+            "name": "酒猫(SP)",
+            "type": 3,
+            "api": "csp_Muou",
+            "ext": "7lj763gg402i7942593ki4jkhl458k99highi4qiaoji41456iikg49i839k2k289l9ik807i213k6j60h",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10"
+        },
+        {
+            "key": "驿站",
+            "name": "驿站(SP)",
+            "type": 3,
+            "api": "csp_Muou",
+            "ext": "7lj763gg0939790i5g649ki3hj5k98jil1g6jqiaoji6jg2458hhjjh9i4i62271j0hj124lj80ll9i8",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10"
+        },
+        {
             "key": "爆炸",
             "name": "爆炸(SP)",
             "type": 3,
@@ -658,14 +672,6 @@
             "type": 3,
             "api": "csp_NanGua",
             "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10"
-        },
-        {
-            "key": "主角",
-            "name": "主角(SP)",
-            "type": 3,
-            "api": "csp_Muou",
-            "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10"
         },
         {
@@ -935,7 +941,7 @@
             "key": "csp_厂长",
             "name": "厂长(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/厂长资源.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/厂长资源2.py"
         },
         {
             "key": "csp_茶杯狐",
@@ -2222,6 +2228,12 @@
             "type": 1,
             "api": "http://cms.xiaohui.cyou:1002/api.php/provide/vod/?ac=list",
             "playUrl": "json:http://xiaohui.cyou:1000/api/?key=7ee73e22b404453adc116a403a32e9c8&url="
+        },
+        {
+            "key": "csp_xml_子子",
+            "name": "子子(xml)",
+            "type": 1,
+            "api": "http://www.ziziys.net/api.php/provide/vod/"
         },
         {
             "key": "csp_xml_如意",
