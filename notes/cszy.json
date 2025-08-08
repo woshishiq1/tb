@@ -3389,6 +3389,12 @@
             "ua": "Goiptv/0.0.1"
         },
         {
+            "name": "judy-MytvSuper",
+            "type": 0,
+            "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/MytvSuper.m3u",
+            "ua": "Goiptv/0.0.1"
+        },
+        {
             "name": "4GTV",
             "type": 0,
             "url": "https://judy.diver.eu.org/m3u/4GTV-TS.m3u",
@@ -3408,6 +3414,16 @@
             "name": "雄健",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xiongjian83/TvBox/main/live.txt"
+        },
+        {
+            "name": "alantang1977",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/alantang1977/IPTV/main/live_ipv4.txt"
+        },
+        {
+            "name": "日后",
+            "type": 0,
+            "url": "http://rihou.cc:567/gggg.nzk"
         },
         {
             "name": "fulei",
@@ -3521,7 +3537,7 @@
         {
             "name": "yuanzl77",
             "type": 0,
-            "url": "http://175.178.251.183:6689/live.m3u"
+            "url": "https://www.lrpoot.top/live.m3u"
         },
         {
             "name": "txtzztv",
