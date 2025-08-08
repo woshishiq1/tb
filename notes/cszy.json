@@ -1348,7 +1348,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
-            "quickSearch": 1,
+            "quickSearch": catvodtv1,
             "filterable": 1,
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/XBPQ/哩咕TV.json",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
@@ -3456,7 +3456,7 @@
             "url": "https://smart.pendy.dpdns.org/m3u/Smart.m3u"
         },
         {
-            "name": "catvodtv",
+            "name": "catvod_iptv",
             "type": 0,
             "url": "https://iptv.catvod.com/tv.m3u"
         },
@@ -3543,12 +3543,14 @@
         {
             "name": "Gather",
             "type": 0,
-            "url": "https://tv-1.iill.top/m3u/Gather"
+            "url": "https://tv-1.iill.top/m3u/Gather",
+            "ua": "xieanqishiwoerzi/0.0.1"
         },
         {
             "name": "MyTV",
             "type": 0,
-            "url": "https://tv-1.iill.top/m3u/MyTV"
+            "url": "https://tv-1.iill.top/m3u/MyTV",
+            "ua": "xieanqishiwoerzi/0.0.1"
         },
         {
             "name": "cluntop",
