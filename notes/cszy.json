@@ -1348,7 +1348,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
-            "quickSearch": catvodtv1,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/XBPQ/哩咕TV.json",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
