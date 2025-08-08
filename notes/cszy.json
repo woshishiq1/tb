@@ -3421,6 +3421,16 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/alantang1977/IPTV/main/live_ipv4.txt"
         },
         {
+            "name": "lalifeier",
+            "type": 0,
+            "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt"
+        },
+        {
+            "name": "qingting",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt"
+        },
+        {
             "name": "日后",
             "type": 0,
             "url": "http://rihou.cc:567/gggg.nzk"
