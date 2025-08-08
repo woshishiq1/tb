@@ -3413,6 +3413,11 @@
             "url": "http://rihou.cc:567/gggg.nzk"
         },
         {
+            "name": "bxtv",
+            "type": 0,
+            "url": "http://bxtv.3a.ink/live.m3u"
+        },
+        {
             "name": "fulei",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fuleishu/ceshi/main/aptv.m3u",
@@ -3543,14 +3548,12 @@
         {
             "name": "Gather",
             "type": 0,
-            "url": "https://tv-1.iill.top/m3u/Gather",
-            "ua": "xieanqishiwoerzi/0.0.1"
+            "url": "https://tv-1.iill.top/m3u/Gather"
         },
         {
             "name": "MyTV",
             "type": 0,
-            "url": "https://tv-1.iill.top/m3u/MyTV",
-            "ua": "xieanqishiwoerzi/0.0.1"
+            "url": "https://tv-1.iill.top/m3u/MyTV"
         },
         {
             "name": "cluntop",
