@@ -3403,6 +3403,16 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/alantang1977/IPTV/main/live_ipv4.txt"
         },
         {
+            "name": "aTV",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/alantang1977/aTV/master/output/result.m3u"
+        },
+        {
+            "name": "IPTV_SuperB",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/alantang1977/IPTV_SuperB/main/output/live_ipv4.m3u"
+        },
+        {
             "name": "qingting",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt"
