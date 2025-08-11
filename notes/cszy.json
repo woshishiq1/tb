@@ -973,6 +973,12 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/cnotv.py"
         },
         {
+            "key": "泥视频",
+            "name": "泥视频(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/泥视频.py"
+        },
+        {
             "key": "csp_py_荐片",
             "name": "荐片(py)",
             "type": 3,
@@ -3406,6 +3412,21 @@
             "name": "aTV",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/alantang1977/aTV/master/output/result.m3u"
+        },
+        {
+            "name": "tangTV",
+            "type": 0,
+            "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/alantang1977/JunTV/main/output/result.m3u"
+        },
+        {
+            "name": "xTV",
+            "type": 0,
+            "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/alantang1977/X/main/live/live_ipv4.m3u"
+        },
+        {
+            "name": "TVtime",
+            "type": 0,
+            "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/alantang1977/time/main/output/result.m3u"
         },
         {
             "name": "IPTV_SuperB",
