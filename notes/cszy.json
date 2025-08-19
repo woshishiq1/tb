@@ -547,19 +547,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250808.jpg;md5;1099f9cedab19f487ac8fc283d9ca447"
         },
         {
-            "key": "云云",
-            "name": "云云(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://110.42.53.99:1080/",
-                "dataKey": "staraugust123456",
-                "siteApi": "get",
-                "version": "120"
-            },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250808.jpg;md5;1099f9cedab19f487ac8fc283d9ca447"
-        },
-        {
             "key": "囧次元",
             "name": "囧次元(SP)",
             "type": 3,
