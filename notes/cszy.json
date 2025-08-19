@@ -408,14 +408,6 @@
             "name": "肥猫(SP)",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "4wSF77WNzVYxpDQF3Vf/eAoVqKf1nKdv5MpKtrhokKJN288M3lP16ZeoM36I71sJ",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0815.png;md5;66623623fe5ae34dad253ae2e0802416"
-        },
-        {
-            "key": "肥猫2",
-            "name": "肥猫2(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
             "ext": {
                 "url": "https://mac.555618.xyz",
                 "dataKey": "#getapp@TMD@2025",
@@ -427,14 +419,6 @@
         {
             "key": "干饭",
             "name": "干饭(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "Ygx7wpu8Zcm70i88iO9WMRvxQZdMqIapMqvlBKPmjCP60xrvslJlJFIwHepviTkKbgCK9nn25i0k7xnWVX0Y7g==",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0815.png;md5;66623623fe5ae34dad253ae2e0802416"
-        },
-        {
-            "key": "干饭2",
-            "name": "干饭2(SP)",
             "type": 3,
             "api": "csp_AppGet",
             "ext": {
@@ -476,14 +460,6 @@
             "name": "蔬菜(SP)",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "/eCbNvmrG2960Ybun3e0F4Nv6y2xkgJD5jOna5SVI+QW4PXMkizOh5qQPL132WcH",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0815.png;md5;66623623fe5ae34dad253ae2e0802416"
-        },
-        {
-            "key": "蔬菜2",
-            "name": "蔬菜2(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
             "ext": {
                 "url": "http://huohu.yihn.cc",
                 "dataKey": "huohushipingetap",
@@ -515,6 +491,58 @@
                 "dataKey": "e65144389e9361b5",
                 "siteApi": "get",
                 "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250808.jpg;md5;1099f9cedab19f487ac8fc283d9ca447"
+        },
+        {
+            "key": "光影",
+            "name": "光影(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.guangyingmi.com",
+                "dataKey": "230fnsodfsdhfon2",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250808.jpg;md5;1099f9cedab19f487ac8fc283d9ca447"
+        },
+        {
+            "key": "狂人",
+            "name": "狂人(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.zjkrmv.vip",
+                "dataKey": "vXeyuJFqTKqWUtWU",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250808.jpg;md5;1099f9cedab19f487ac8fc283d9ca447"
+        },
+        {
+            "key": "旗星",
+            "name": "旗星(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://ys.qist.top",
+                "dataKey": "2SWSPFxugBLPPOKo",
+                "siteApi": "get",
+                "version": "120"
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250808.jpg;md5;1099f9cedab19f487ac8fc283d9ca447"
+        },
+        {
+            "key": "蓝光",
+            "name": "蓝光(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://122.228.193.2:9654",
+                "dataKey": "ca94b06ca3c7d80e",
+                "siteApi": "get",
+                "version": "119"
             },
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250808.jpg;md5;1099f9cedab19f487ac8fc283d9ca447"
         },
