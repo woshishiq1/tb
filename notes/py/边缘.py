@@ -339,8 +339,3 @@ class Spider(Spider):
     
     def uuid(self):
         return str(uuid.uuid4())
-
-
-
-
-
