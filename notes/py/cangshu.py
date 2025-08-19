@@ -136,7 +136,7 @@ class Spider(Spider):
         headers = {
             'User-Agent': 'okhttp/3.14.9'
         }
-        response = self.fetch('https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/ext/cangshu.txt',headers=headers).text
+        response = self.fetch('https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/ext/cangshu.txt',headers=headers).text
 #       response = self.fetch('https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/cs.txt',headers=headers).text
         return response.strip()
 
@@ -207,3 +207,4 @@ class Spider(Spider):
         h = MD5.new()
         h.update(text.encode('utf-8'))
         return h.hexdigest()
+
