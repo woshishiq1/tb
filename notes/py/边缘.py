@@ -174,7 +174,7 @@ class Spider(Spider):
 
     def getohost(self):
 #        url='https://bianyuan001.oss-cn-beijing.aliyuncs.com/huidu1.0.0.json'
-        url='https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/ext/huidu1.0.0.json'
+        url='https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/ext/huidu1.0.0.json'
         response = self.fetch(url, headers=self.headers).json()
         return response['servers'][0]
 
@@ -339,6 +339,7 @@ class Spider(Spider):
     
     def uuid(self):
         return str(uuid.uuid4())
+
 
 
 
