@@ -1,11 +1,11 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0818.jpg;md5;679a73a07d611b302a608ce9e86b4f9b",
-//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0818.jpg;md5;679a73a07d611b302a608ce9e86b4f9b",
-//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0818.jpg;md5;679a73a07d611b302a608ce9e86b4f9b",
-//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0818.jpg;md5;679a73a07d611b302a608ce9e86b4f9b",
-//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0818.jpg;md5;679a73a07d611b302a608ce9e86b4f9b",
-//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0818.jpg;md5;679a73a07d611b302a608ce9e86b4f9b",
-//  "spider": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0818.jpg;md5;679a73a07d611b302a608ce9e86b4f9b",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0819.jpg;md5;81614a4982ac5fd02d64f075e87c9150",
+//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0819.jpg;md5;81614a4982ac5fd02d64f075e87c9150",
+//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0819.jpg;md5;81614a4982ac5fd02d64f075e87c9150",
+//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0819.jpg;md5;81614a4982ac5fd02d64f075e87c9150",
+//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0819.jpg;md5;81614a4982ac5fd02d64f075e87c9150",
+//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0819.jpg;md5;81614a4982ac5fd02d64f075e87c9150",
+//  "spider": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0819.jpg;md5;81614a4982ac5fd02d64f075e87c9150",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -54,10 +54,10 @@
             "changeable": 0
         },
         {
-            "key": "白白",
-            "name": "白白影视(SP)",
+            "key": "文采",
+            "name": "文采影视(SP)",
             "type": 3,
-            "api": "csp_SbaibaiGuard",
+            "api": "csp_JpysGuard",
             "timeout": 15,
             "playerType": 2,
             "searchable": 1,
@@ -76,15 +76,14 @@
             "changeable": 1
         },
         {
-            "key": "南瓜",
-            "name": "南瓜(SP)",
+            "key": "下饭",
+            "name": "下饭(SP)",
             "type": 3,
-            "api": "csp_NanGuaGuard",
-            "timeout": 15,
-            "playerType": 2,
+            "api": "csp_AppYsV2Guard",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "filterable": 1,
+            "ext": "rfOK0+FRORAJ7epFjN2F5bqpqyOZwM/2zjo8fIu3AAlFJl8e/Co3qKR3f7pI2cY5ozXZZ9dHjiJz7Ht9P/01UpTYurKeSnahWreewemiQ2fux0BkNEtR69ypVhP1Muo4YsZTow4IKQzyEtbS42eHS9QK"
         },
         {
             "key": "原创",
@@ -118,10 +117,10 @@
             "changeable": 1
         },
         {
-            "key": "文采",
-            "name": "文采影视(SP)",
+            "key": "白白",
+            "name": "白白影视(SP)",
             "type": 3,
-            "api": "csp_JpysGuard",
+            "api": "csp_SbaibaiGuard",
             "timeout": 15,
             "playerType": 2,
             "searchable": 1,
@@ -674,7 +673,7 @@
         },
         {
             "key": "csp_南瓜",
-            "name": "南瓜2(SP)",
+            "name": "南瓜(SP)",
             "type": 3,
             "api": "csp_NanGua",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0815.png;md5;66623623fe5ae34dad253ae2e0802416"
