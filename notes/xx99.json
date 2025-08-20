@@ -28,6 +28,13 @@
             "api": "csp_Zuise"
         },
         {
+            "key": "黄色仓库",
+            "name": "黄色仓库",
+            "type": 0,
+            "api": "http://337203.xyz/api.php/provide/vod",
+            "searchable": 1
+        },
+        {
             "key": "bttcj.com",
             "name": "成人03",
             "type": 0,
