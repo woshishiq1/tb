@@ -618,6 +618,14 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0815.png;md5;66623623fe5ae34dad253ae2e0802416"
         },
         {
+            "key": "麻花2",
+            "name": "麻花2(SP)",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "8DBhgTHlwsdde1V+XNnHWDUo96bisLPlXXWowe/BjAkFTByXVW8rl6nRNIr6DTC0",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0815.png;md5;66623623fe5ae34dad253ae2e0802416"
+        },
+        {
             "key": "csp_加菲",
             "name": "加菲(SP)",
             "type": 3,
@@ -647,6 +655,14 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQd58LGascWuvwraVoz2iK+s=",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0815.png;md5;66623623fe5ae34dad253ae2e0802416"
+        },
+        {
+            "key": "csp_hiapp",
+            "name": "hiapp(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "4+puQ2fxsNJWd5UauYRtFWna9fnlt5dkKL3x9lhE4fvCfvUo8e8W9xdW1SgtEluDq2x7Lwe3quIjIBtAOG2UJw==",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0815.png;md5;66623623fe5ae34dad253ae2e0802416"
         },
         {
@@ -822,6 +838,28 @@
             "filterable": 1,
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/XP/gj5.json",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
+        },
+        {
+            "key": "鲸鱼(py)",
+            "name": "鲸鱼(py)",
+            "type": 3,
+            "api": "https://13826.kstore.vip/getapp3.4.2.py",
+            "ext": {
+                "host": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
+                "datakey": "AAdgrdghjfgswerA",
+                "api": "2"
+            }
+        },
+        {
+            "key": "爱盈(py)",
+            "name": "爱盈(py)",
+            "type": 3,
+            "api": "https://13826.kstore.vip/getapp3.4.2.py",
+            "ext": {
+                "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj1.txt",
+                "datakey": "dksvndkaAjekakcE",
+                "api": "2"
+            }
         },
         {
             "key": "剧霸",
