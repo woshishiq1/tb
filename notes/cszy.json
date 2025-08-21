@@ -3477,6 +3477,12 @@
             "logo": "https://epg.v1.mk/logo/{name}.png"
         },
         {
+            "name": "diyp",
+            "type": 0,
+            "url": "http://iptv.diyp.site/diyp.php",
+            "ua": "okhttp/3.15"
+        },
+        {
             "name": "肥猫",
             "type": 0,
             "url": "https://6296.kstore.vip/25.txt",
@@ -3492,7 +3498,7 @@
         {
             "name": "judy-gotv",
             "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/judy-gotv/iptv/main/smart2025.txt",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/judy-gotv/iptv/main/smart.txt",
             "ua": "Goiptv/0.0.1"
         },
         {
@@ -3546,11 +3552,6 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/alantang1977/IPTV_SuperB/main/output/live_ipv4.m3u"
         },
         {
-            "name": "qingting",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt"
-        },
-        {
             "name": "bbxx",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/kimwang1978/collect-txt/main/bbxx.txt"
@@ -3559,11 +3560,6 @@
             "name": "日后",
             "type": 0,
             "url": "http://rihou.cc:567/gggg.nzk"
-        },
-        {
-            "name": "bxtv",
-            "type": 0,
-            "url": "http://bxtv.3a.ink/live.m3u"
         },
         {
             "name": "fulei",
@@ -3594,11 +3590,6 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fafa002/yf2025/main/yiyifafa.txt"
         },
         {
-            "name": "xiaotan8",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xiaotan8/xiaotan8.github.io/main/mytvsuper.m3u"
-        },
-        {
             "name": "xiaotan8_gd",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xiaotan8/xiaotan8.github.io/main/gdiptv.m3u"
@@ -3609,21 +3600,16 @@
             "url": "https://smart.pendy.dpdns.org/m3u/Smart.m3u"
         },
         {
-            "name": "catvod_iptv",
-            "type": 0,
-            "url": "https://iptv.catvod.com/tv.m3u",
-            "ua": "okHttp/Mod-1.0.0"
-        },
-        {
             "name": "catvod_live",
             "type": 0,
             "url": "https://live.catvod.com/tv.m3u",
             "ua": "catvod.com"
         },
         {
-            "name": "冰雪",
+            "name": "catvod_iptv",
             "type": 0,
-            "url": "https://bxtv.3a.ink/live.m3u"
+            "url": "https://iptv.catvod.com/tv.m3u",
+            "ua": "okHttp/Mod-1.0.1"
         },
         {
             "name": "ds65",
@@ -3631,35 +3617,14 @@
             "url": "https://ds65.tv1288.xyz/"
         },
         {
-            "name": "go8",
-            "type": 0,
-            "url": "http://go8.myartsonline.com/zx/0/dzh.txt"
-        },
-        {
-            "name": "kesug",
-            "type": 0,
-            "url": "http://txt.kesug.com/users/HKTV.txt"
-        },
-        {
             "name": "hulanlu",
             "type": 0,
             "url": "http://txt.kesug.com/users/hulanlu.txt"
         },
         {
-            "name": "斯玛特",
-            "type": 0,
-            "url": "https://tvbot.dpdns.org/tv.m3u"
-        },
-        {
             "name": "Jsnzkpg",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"
-        },
-        {
-            "name": "百宝箱",
-            "type": 0,
-            "url": "https://live.iptv365.org/live.m3u",
-            "ua": "AptvPlayer/1.3.3"
         },
         {
             "name": "suxuang",
@@ -3684,25 +3649,19 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/mai761/iptv-subscription/master/gdyd.m3u"
         },
         {
-            "name": "diyp",
-            "type": 0,
-            "url": "http://iptv.diyp.site/diyp.php",
-            "ua": "okhttp/3.15"
-        },
-        {
             "name": "livetv",
             "type": 0,
             "url": "https://livetv.gungfu2012.tk"
         },
         {
-            "name": "Gather",
-            "type": 0,
-            "url": "https://tv-1.iill.top/m3u/Gather"
-        },
-        {
             "name": "MyTV",
             "type": 0,
             "url": "https://tv-1.iill.top/m3u/MyTV"
+        },
+        {
+            "name": "Gather",
+            "type": 0,
+            "url": "https://tv-1.iill.top/m3u/Gather"
         },
         {
             "name": "cluntop",
@@ -3734,6 +3693,12 @@
             "name": "rad168",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/rad168/iptv/main/live.m3u"
+        },
+        {
+            "name": "百宝箱",
+            "type": 0,
+            "url": "https://live.iptv365.org/live.m3u",
+            "ua": "AptvPlayer/1.3.3"
         },
         {
             "name": "wwb521",
