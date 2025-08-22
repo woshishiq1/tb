@@ -1,11 +1,11 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0819.jpg;md5;81614a4982ac5fd02d64f075e87c9150",
-//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0819.jpg;md5;81614a4982ac5fd02d64f075e87c9150",
-//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0819.jpg;md5;81614a4982ac5fd02d64f075e87c9150",
-//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0819.jpg;md5;81614a4982ac5fd02d64f075e87c9150",
-//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0819.jpg;md5;81614a4982ac5fd02d64f075e87c9150",
-//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0819.jpg;md5;81614a4982ac5fd02d64f075e87c9150",
-//  "spider": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0819.jpg;md5;81614a4982ac5fd02d64f075e87c9150",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0821.jpg;md5;bcaa35ff60c87f537cf509da3c40411e",
+//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0821.jpg;md5;bcaa35ff60c87f537cf509da3c40411e",
+//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0821.jpg;md5;bcaa35ff60c87f537cf509da3c40411e",
+//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0821.jpg;md5;bcaa35ff60c87f537cf509da3c40411e",
+//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0821.jpg;md5;bcaa35ff60c87f537cf509da3c40411e",
+//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0821.jpg;md5;bcaa35ff60c87f537cf509da3c40411e",
+//  "spider": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0821.jpg;md5;bcaa35ff60c87f537cf509da3c40411e",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -590,6 +590,14 @@
             "name": "瓜子影视(SP)",
             "type": 3,
             "api": "csp_Gz360",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0815.png;md5;66623623fe5ae34dad253ae2e0802416"
+        },
+        {
+            "key": "追忆",
+            "name": "追忆(SP)",
+            "type": 3,
+            "api": "csp_AppSy",
+            "ext": "Qrf5S6Si5oF7dQyuv+Srh3uh0lT3z1Y7u59ip9hRVeWtPAwa8PAzOjbdregJfgecQjmbgYlvm+1rK87EwCqgaovlgh315Qrh90D+nl+f08o=",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0815.png;md5;66623623fe5ae34dad253ae2e0802416"
         },
         {
