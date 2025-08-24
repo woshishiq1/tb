@@ -1339,6 +1339,17 @@
             "ext": "http://99cms.jj99.icu:8199/api.php/app/"
         },
         {
+            "key": "易剧集",
+            "name": "易剧集(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.kktvb.app.tc/vshow/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类": "港剧$8#电视剧$1#电影$2#动漫$3#其他$4#综艺$18#日漫$17#国漫$16"
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "老王影视",
             "name": "老王影视(XBPQ)",
             "type": 3,
@@ -3617,7 +3628,7 @@
             "name": "catvod_iptv",
             "type": 0,
             "url": "https://iptv.catvod.com/tv.m3u",
-            "ua": "okHttp/Mod-1.1.0"
+            "ua": "okHttp/Mod-1.0.1"
         },
         {
             "name": "ds65",
