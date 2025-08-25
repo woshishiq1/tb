@@ -817,7 +817,7 @@
         },
         {
             "key": "csp_xpath_kktvb",
-            "name": "易剧集(XP)",
+            "name": "易剧集(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/XPF/kktvb.json",
