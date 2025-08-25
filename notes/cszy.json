@@ -1352,7 +1352,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
-                "副标题": "<div class=\"module-item-text\">&&</div>",
                 "搜索url": "https://www.kktvb.app.tc/vs/{wd}-------------.html",
                 "线路数组": "<div class=\"module-tab-item tab-item&&</div>",
                 "线路标题": "<span>&&</span>",
