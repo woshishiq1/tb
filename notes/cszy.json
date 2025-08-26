@@ -753,6 +753,14 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10"
         },
         {
+            "key": "主角",
+            "name": "主角(SP)",
+            "type": 3,
+            "api": "csp_Muou",
+            "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10"
+        },
+        {
             "key": "聚搜",
             "name": "聚搜(SP)",
             "type": 3,
@@ -1352,6 +1360,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
+                "副标题": "<div class=\"module-item-text\">&&</div>",
                 "搜索url": "https://www.kktvb.app.tc/vs/{wd}-------------.html",
                 "线路数组": "<div class=\"module-tab-item tab-item&&</div>",
                 "线路标题": "<span>&&</span>",
