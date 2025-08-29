@@ -285,6 +285,34 @@
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/json/feimaolive.json"
         },
         {
+            "key": "py_BadNews",
+            "name": "BadNews(T4)",
+            "type": 4,
+            "api": "https://py.doube.eu.org/spider?site=BadNews",
+            "searchable": 1
+        },
+        {
+            "key": "py_Miss",
+            "name": "MissAV(T4)",
+            "type": 4,
+            "api": "https://py.doube.eu.org/spider?site=Miss",
+            "searchable": 1
+        },
+        {
+            "key": "py_AiDou",
+            "name": "AiDou(T4)",
+            "type": 4,
+            "api": "https://py.doube.eu.org/spider?site=AiDou",
+            "searchable": 1
+        },
+        {
+            "key": "py_MrJav",
+            "name": "MRJav(T4)",
+            "type": 4,
+            "api": "https://py.doube.eu.org/spider?site=MrJav",
+            "searchable": 1
+        },
+        {
             "key": "精品资源",
             "name": "精品资源(飞)",
             "type": 1,
