@@ -743,30 +743,12 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0826v2.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
         },
         {
-            "key": "csp_南瓜",
-            "name": "南瓜(SP)",
-            "type": 3,
-            "api": "csp_NanGua",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0826v2.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
-        },
-        {
             "key": "csp_农民",
             "name": "农民(SP)",
             "type": 3,
             "api": "csp_Wwys",
             "ext": "https://www.wwgz.cn",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0826v2.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
-        },
-        {
-            "key": "猪猪",
-            "name": "猪猪(SP)",
-            "type": 3,
-            "api": "https://d.feiliupan.com/t/109056264444579840/AppV2.py",
-            "ext": {
-                "api": "http://dmmax.juxiafan.com/icciu_api.php/v1.vod",
-                "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
-                "apisignkey": "lvdoutv-1.0.0"
-            }
         },
         {
             "key": "csp_AppXY",
