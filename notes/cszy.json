@@ -3593,6 +3593,11 @@
             "url": "http://www1.RobYang.ggff.net/VodLive/lb8ffa"
         },
         {
+            "name": "CCSH",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/CCSH/IPTV/main/live.txt"
+        },
+        {
             "name": "雷蒙",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt"
@@ -3615,17 +3620,22 @@
         {
             "name": "tangTV",
             "type": 0,
-            "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/alantang1977/JunTV/main/output/result.m3u"
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/alantang1977/JunTV/main/output/result.m3u"
         },
         {
             "name": "xTV",
             "type": 0,
-            "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/alantang1977/X/main/live/live_ipv4.m3u"
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/alantang1977/X/main/live/live_ipv4.m3u"
         },
         {
             "name": "TVtime",
             "type": 0,
-            "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/alantang1977/time/main/output/result.m3u"
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/alantang1977/time/main/output/result.m3u"
+        },
+        {
+            "name": "iptv_api",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/alantang1977/iptv_api/main/output/live_ipv4.m3u"
         },
         {
             "name": "IPTV_SuperA",
@@ -3646,6 +3656,43 @@
             "name": "日后",
             "type": 0,
             "url": "http://rihou.cc:567/gggg.nzk"
+        },
+        {
+            "name": "测试",
+            "type": 0,
+            "url": "https://epg.pw/test_channels_hong_kong.m3u"
+        },
+        {
+            "name": "TVSolo",
+            "type": 0,
+            "url": "https://d.kstore.dev/download/15114/TVSolo.txt"
+        },
+        {
+            "name": "斯玛特",
+            "type": 0,
+            "url": "https://d.kstore.dev/download/15114/HKoo.txt"
+        },
+        {
+            "name": "冰茶",
+            "type": 0,
+            "url": "https://fy.188766.xyz/?ip=192.168.110.183"
+        },
+        {
+            "name": "冰茶2",
+            "type": 0,
+            "url": "https://fy.188766.xyz/?ip=192.168.2.231"
+        },
+        {
+            "name": "junchao",
+            "type": 0,
+            "url": "https://cnb.cool/junchao.tang/live/-/git/raw/main/API",
+            "ua": "okHttp"
+        },
+        {
+            "name": "BXTV",
+            "type": 0,
+            "url": "https://bxtv.3a.ink/live.m3u",
+            "ua": "okhttp/3.8.1"
         },
         {
             "name": "fulei",
