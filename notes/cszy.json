@@ -3742,7 +3742,7 @@
             "name": "catvod_iptv",
             "type": 0,
             "url": "https://iptv.catvod.com/tv.m3u",
-            "ua": "okHttp/Mod-1.1.0"
+            "ua": "okHttp/Mod-1.2.0"
         },
         {
             "name": "ds65",
