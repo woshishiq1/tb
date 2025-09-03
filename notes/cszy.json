@@ -1,11 +1,5 @@
 {
     "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0821.jpg;md5;bcaa35ff60c87f537cf509da3c40411e",
-//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0821.jpg;md5;bcaa35ff60c87f537cf509da3c40411e",
-//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0821.jpg;md5;bcaa35ff60c87f537cf509da3c40411e",
-//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0821.jpg;md5;bcaa35ff60c87f537cf509da3c40411e",
-//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0821.jpg;md5;bcaa35ff60c87f537cf509da3c40411e",
-//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0821.jpg;md5;bcaa35ff60c87f537cf509da3c40411e",
-//  "spider": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0821.jpg;md5;bcaa35ff60c87f537cf509da3c40411e",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -585,6 +579,162 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
+            "key": "一三",
+            "name": "一三(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://160.202.247.214:1688",
+                "dataKey": "qwertyuiopqwerty",
+                "siteApi": "qiji",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
+            "key": "柠檬",
+            "name": "柠檬(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://45.207.212.137",
+                "dataKey": "a006661b01bdebbd",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
+            "key": "豆丁",
+            "name": "豆丁(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://45.66.157.77:9427",
+                "dataKey": "Xasdasd!123123dd",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
+            "key": "爱看(SP)",
+            "name": "爱看(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://114.134.185.234",
+                "dataKey": "uI1TkPJC8B46AyN3",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
+            "key": "莱米(SP)",
+            "name": "莱米(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://laimi.lmapp.org",
+                "dataKey": "ce032244d093b3e2",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
+            "key": "丫丫(SP)",
+            "name": "丫丫(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://tv.yy-fun.cc",
+                "dataKey": "qkxnwkfjwpcnwycl",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
+            "key": "若惜(SP)",
+            "name": "若惜(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://110.40.59.188:9527",
+                "dataKey": "ebad3f1a58b13933",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
+            "key": "白蛇(SP)",
+            "name": "白蛇(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://121.62.22.204:9876",
+                "dataKey": "n3l2tx5jdkp9s2c8",
+                "siteApi": "get",
+                "version": "361"
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
+            "key": "曼波(SP)",
+            "name": "曼波(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://app.omofun1.top",
+                "dataKey": "66dc309cbeeca454",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
+            "key": "咕咕(SP)",
+            "name": "咕咕(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.gugu3.com",
+                "dataKey": "nKfZ8KX6JTNWRzTD",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
+            "key": "派对(SP)",
+            "name": "派对(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://qjappcms.acg.party",
+                "dataKey": "AmtMYFCJDPoTlK7z",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
+            "key": "米饭(SP)",
+            "name": "米饭(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://get.mymifun.com",
+                "dataKey": "GETMIFUNGEIMIFUN",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
             "key": "囧次元",
             "name": "囧次元(SP)",
             "type": 3,
@@ -1035,7 +1185,7 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/海马影视APP.py"
         },
         {
-            "key": "csp_若惜",
+            "key": "若惜(py)",
             "name": "若惜(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/若惜追剧APP.py"
@@ -1908,13 +2058,6 @@
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/lib4/AppGet.js?type=url&params=https://api1.bffree.cn$2015692015692015$2015692015692015"
         },
         {
-            "key": "蓝光(js)",
-            "name": "蓝光(js)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/lib4/drpy2.min.js",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/lib4/AppGet.js?type=url&params=http://122.228.193.2:9654$ca94b06ca3c7d80e$ca94b06ca3c7d80e"
-        },
-        {
             "key": "豆丁(js)",
             "name": "豆丁(js)",
             "type": 3,
@@ -1927,20 +2070,6 @@
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/lib4/drpy2.min.js",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/lib4/AppGet.js?type=url&params=https://guahd.com/$f2A7D4B9E8C16531$f2A7D4B9E8C16531"
-        },
-        {
-            "key": "白蛇(js)",
-            "name": "白蛇(js)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/lib4/drpy2.min.js",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/lib4/AppGet.js?type=url&params=http://121.62.22.204:9876$n3l2tx5jdkp9s2c8$n3l2tx5jdkp9s2c8"
-        },
-        {
-            "key": "曼波(js)",
-            "name": "曼波(js)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/lib4/drpy2.min.js",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/lib4/AppGet.js?type=url&params=https://app.omofun1.top$66dc309cbeeca454$66dc309cbeeca454"
         },
         {
             "key": "稀饭(js)",
@@ -1962,20 +2091,6 @@
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/lib4/drpy2.min.js",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/lib4/AppGet.js?type=url&params=https://jjjj.nilinili.org$672263e98f232a05$672263e98f232a05"
-        },
-        {
-            "key": "派对(js)",
-            "name": "派对(js)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/lib4/drpy2.min.js",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/lib4/AppGet.js?type=url&params=https://qjappcms.acg.party$AmtMYFCJDPoTlK7z$AmtMYFCJDPoTlK7z"
-        },
-        {
-            "key": "丫丫(js)",
-            "name": "丫丫(js)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/lib4/drpy2.min.js",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/lib4/AppGet.js?type=url&params=http://tv.yy-fun.cc$qkxnwkfjwpcnwycl$qkxnwkfjwpcnwycl"
         },
         {
             "key": "米诺(js)",
