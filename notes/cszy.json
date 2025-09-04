@@ -791,7 +791,7 @@
             "name": "追忆(SP)",
             "type": 3,
             "api": "csp_AppSy",
-            "ext": "Qrf5S6Si5oF7dQyuv+Srh3uh0lT3z1Y7u59ip9hRVeWtPAwa8PAzOjbdregJfgecQjmbgYlvm+1rK87EwCqgaovlgh315Qrh90D+nl+f08o=",
+            "ext": "oJGDh+VBrPcwnx19VbSGqy9EkivA/Gc+cSt3uSBzyPzDTmKYyoi6Wr4VgqU2u0Sh7AAuGc4/a7UWVU6BEmFetA==",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0826v2.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
         },
         {
@@ -1082,6 +1082,17 @@
                 "datakey": "dksvndkaAjekakcE",
                 "api": "2"
             }
+        },
+        {
+            "key": "追剧(py)",
+            "name": "追剧(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/AppV2.py",
+            "ext": {
+                "api": "http://dmmax.kuailezhuiju2.com/icciu_api.php/v1.vod",
+                "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
+                "apisignkey": "lvdoutv-1.0.0"
+            },
         },
         {
             "key": "剧霸",
