@@ -3745,6 +3745,11 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xiongjian83/TvBox/main/live.txt"
         },
         {
+            "name": "alantang",
+            "type": 0,
+            "url": "http://txt.kesug.com/users/alantang.txt"
+        },
+        {
             "name": "alantang1977",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/alantang1977/IPTV/main/live_ipv4.txt"
@@ -3873,6 +3878,12 @@
             "name": "catvod_live",
             "type": 0,
             "url": "https://live.catvod.com/tv.m3u",
+            "ua": "catvod.com"
+        },
+        {
+            "name": "catvod_php",
+            "type": 0,
+            "url": "https://live.catvod.com/catvod_com.php",
             "ua": "catvod.com"
         },
         {
