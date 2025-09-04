@@ -337,7 +337,7 @@
         },
         {
             "key": "csp_Lkdy",
-            "name": "来看影视(SP)",
+            "name": "来看(SP)",
             "type": 3,
             "api": "csp_Lkdy",
             "ext": "https://lkvod.com",
@@ -345,7 +345,7 @@
         },
         {
             "key": "csp_Qiyou",
-            "name": "奇优影视(SP)",
+            "name": "奇优(SP)",
             "type": 3,
             "api": "csp_Qiyou",
             "ext": "http://www.dyxz2.com",
@@ -353,14 +353,14 @@
         },
         {
             "key": "csp_Jiaozi",
-            "name": "饺子影视(SP)",
+            "name": "饺子(SP)",
             "type": 3,
             "api": "csp_Jiaozi",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
             "key": "csp_Xlys",
-            "name": "修罗影视(SP)",
+            "name": "修罗(SP)",
             "type": 3,
             "api": "csp_Xlys",
             "ext": "https://www.xlys02.com",
@@ -368,7 +368,7 @@
         },
         {
             "key": "csp_Quanwk",
-            "name": "全看影视(SP)",
+            "name": "全看(SP)",
             "type": 3,
             "api": "csp_Quanwk",
             "ext": "https://www.91qkw.com",
@@ -376,14 +376,14 @@
         },
         {
             "key": "csp_KmeiJu",
-            "name": "鸭梨影视(SP)",
+            "name": "鸭梨(SP)",
             "type": 3,
             "api": "csp_KmeiJu",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
             "key": "csp_SaoHuo",
-            "name": "火火影视(SP)",
+            "name": "火火(SP)",
             "type": 3,
             "api": "csp_SaoHuo",
             "ext": "https://shdy5.us",
@@ -605,6 +605,19 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
+            "key": "小猪",
+            "name": "小猪(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://appcms.xz4k.top",
+                "dataKey": "1785acb6c963184b",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
             "key": "柠檬",
             "name": "柠檬(SP)",
             "type": 3,
@@ -664,19 +677,6 @@
             "ext": {
                 "url": "http://tv.yy-fun.cc",
                 "dataKey": "qkxnwkfjwpcnwycl",
-                "siteApi": "get",
-                "version": ""
-            },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
-        },
-        {
-            "key": "若惜(SP)",
-            "name": "若惜(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://110.40.59.188:9527",
-                "dataKey": "ebad3f1a58b13933",
                 "siteApi": "get",
                 "version": ""
             },
@@ -748,14 +748,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
-            "key": "囧次元",
-            "name": "囧次元(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "DUFPNFXbc0nhQ9S/akUS1016tumg5c0CXsmywMwiuf27+XAPWObdQRDR22Lgih/6189f+1INKiaNm4cQ+AY7CA==",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0826v2.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
-        },
-        {
             "key": "天天",
             "name": "天天(SP)",
             "type": 3,
@@ -781,7 +773,7 @@
         },
         {
             "key": "csp_Wwys",
-            "name": "旺旺影视(SP)",
+            "name": "旺旺(SP)",
             "type": 3,
             "api": "csp_Wwys",
             "ext": "https://www.wwgz.cn",
@@ -789,7 +781,7 @@
         },
         {
             "key": "csp_瓜子",
-            "name": "瓜子影视(SP)",
+            "name": "瓜子(SP)",
             "type": 3,
             "api": "csp_Gz360",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0826v2.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
@@ -914,6 +906,14 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0826v2.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
         },
         {
+            "key": "囧次元",
+            "name": "囧次元(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "DUFPNFXbc0nhQ9S/akUS1016tumg5c0CXsmywMwiuf27+XAPWObdQRDR22Lgih/6189f+1INKiaNm4cQ+AY7CA==",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0826v2.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
+        },
+        {
             "key": "csp_AppXY",
             "name": "星芽短剧(SP)",
             "type": 3,
@@ -1000,7 +1000,7 @@
         },
         {
             "key": "csp_xpath_gjyak",
-            "name": "粤爱看网(XPF)",
+            "name": "粤爱看(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 0,
@@ -1011,7 +1011,7 @@
         },
         {
             "key": "csp_xpath_3kgj",
-            "name": "3K港剧网(XPF)",
+            "name": "3K港剧(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
@@ -1022,7 +1022,7 @@
         },
         {
             "key": "csp_xpath_hkgjw",
-            "name": "HK港剧网(XPF)",
+            "name": "HK港剧(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
@@ -1887,6 +1887,22 @@
                 "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
             },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "剧迷",
+            "name": "剧迷(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/XBPQ/剧迷TV.json",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "海纳",
+            "name": "海纳(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/XBPQ/海纳TV.json",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
@@ -3684,9 +3700,16 @@
     "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
     "lives": [
         {
-            "name": "看电视呗",
+            "name": "看电视",
             "type": 0,
-            "url": "http://8.138.7.223/51.php",
+            "url": "http://8.138.7.223/tv.php",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.v1.mk/logo/{name}.png"
+        },
+        {
+            "name": "看电视2",
+            "type": 0,
+            "url": "http://8.138.7.223/93.php",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.v1.mk/logo/{name}.png"
         },
@@ -3695,13 +3718,6 @@
             "type": 0,
             "url": "http://iptv.diyp.site/diyp.php",
             "ua": "okhttp/3.15"
-        },
-        {
-            "name": "肥猫",
-            "type": 0,
-            "url": "https://6296.kstore.vip/25.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.v1.mk/logo/{name}.png"
         },
         {
             "name": "merged_judy",
@@ -3718,7 +3734,8 @@
         {
             "name": "robyang",
             "type": 0,
-            "url": "http://www1.RobYang.ggff.net/VodLive/lb8ffa"
+            "url": "http://www1.RobYang.ggff.net/VodLive/lb8ffa",
+            "ua": "okhttp/4.12.0 RobYang/5.2.1"
         },
         {
             "name": "CCSH",
