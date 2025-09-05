@@ -3987,6 +3987,11 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/rad168/iptv/main/live.m3u"
         },
         {
+            "name": "FYTV",
+            "type": 0,
+            "url": "http://iptv.4666888.xyz/FYTV.txt "
+        },
+        {
             "name": "百宝箱",
             "type": 0,
             "url": "https://live.iptv365.org/live.m3u",
