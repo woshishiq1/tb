@@ -696,6 +696,19 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
+            "key": "晴天(SP)",
+            "name": "晴天(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://appcms.sun4k.top",
+                "dataKey": "b025dcd9c289cbb3",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
             "key": "曼波(SP)",
             "name": "曼波(SP)",
             "type": 3,
