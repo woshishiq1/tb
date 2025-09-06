@@ -410,19 +410,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
-            "key": "干饭",
-            "name": "干饭(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://110.42.53.99:1080",
-                "dataKey": "staraugust123456",
-                "siteApi": "qiji",
-                "version": "301"
-            },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
-        },
-        {
             "key": "光盘",
             "name": "光盘(SP)",
             "type": 3,
@@ -696,19 +683,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
-            "key": "晴天(SP)",
-            "name": "晴天(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://appcms.sun4k.top",
-                "dataKey": "b025dcd9c289cbb3",
-                "siteApi": "get",
-                "version": ""
-            },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
-        },
-        {
             "key": "曼波(SP)",
             "name": "曼波(SP)",
             "type": 3,
@@ -919,16 +893,8 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0826v2.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
         },
         {
-            "key": "囧次元",
-            "name": "囧次元(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "DUFPNFXbc0nhQ9S/akUS1016tumg5c0CXsmywMwiuf27+XAPWObdQRDR22Lgih/6189f+1INKiaNm4cQ+AY7CA==",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0826v2.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
-        },
-        {
             "key": "csp_AppXY",
-            "name": "星芽短剧(SP)",
+            "name": "星芽(SP)",
             "type": 3,
             "api": "csp_AppXY",
             "ext": "https://xvapp.xingya.com.cn",
