@@ -1123,6 +1123,17 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
+            "key": "csp_xpath_baancake",
+            "name": "港剧TVB(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/XP/baancake.json",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
+        },
+        {
             "key": "csp_xpath_123hktv",
             "name": "123hktv(XP)",
             "type": 3,
@@ -1655,17 +1666,6 @@
             "type": 3,
             "api": "csp_AppYsV2Guard",
             "ext": "http://99cms.jj99.icu:8199/api.php/app/"
-        },
-        {
-            "key": "港剧TVB",
-            "name": "港剧TVB(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://www.baancake.com/Tvb/{cateId}-{catePg}.html",
-                "分类": "电视剧$1#电影$2#综艺$3"
-            },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "易剧集",
