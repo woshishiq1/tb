@@ -576,6 +576,19 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
+            "key": "哔滴",
+            "name": "哔滴(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://ooxooxooxooxoo-1259561579.cos.ap-chengdu.myqcloud.com/ip.json",
+                "dataKey": "5ae8ee4bb95ea0ce",
+                "siteApi": "qiji",
+                "version": "120"
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
             "key": "云云",
             "name": "云云(SP)",
             "type": 3,
@@ -597,6 +610,19 @@
                 "url": "http://160.202.247.214:1688",
                 "dataKey": "qwertyuiopqwerty",
                 "siteApi": "qiji",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
+            "key": "五八",
+            "name": "五八(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://dy.58ys.vip",
+                "dataKey": "JEWibY1AgWF0V1xx",
+                "siteApi": "get",
                 "version": ""
             },
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
@@ -693,6 +719,58 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
+            "key": "万能(SP)",
+            "name": "万能(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://wnvod.cc",
+                "dataKey": "5uBvur6znNUmE3zb",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
+            "key": "追番",
+            "name": "追番(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://app1.ystva.com",
+                "dataKey": "A1akVPQmnnE4Fz9Z",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
+            "key": "元咲",
+            "name": "元咲(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://cic.aicg.fun",
+                "dataKey": "2c4h36abd96se10u",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
+            "key": "凛冬",
+            "name": "凛冬(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://cydd.xyz",
+                "dataKey": "cyddkeyf774b3b39",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
             "key": "曼波(SP)",
             "name": "曼波(SP)",
             "type": 3,
@@ -700,6 +778,19 @@
             "ext": {
                 "url": "https://app.omofun1.top",
                 "dataKey": "66dc309cbeeca454",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
+            "key": "稀饭(SP)",
+            "name": "稀饭(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://oldapp.xfconnect.top",
+                "dataKey": "1yZ2Spn9krnzVKoC",
                 "siteApi": "get",
                 "version": ""
             },
@@ -2132,13 +2223,6 @@
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/lib4/drpy2.min.js",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/lib4/AppGet.js?type=url&params=https://app.xifanys.com$HM6Ly9yeS4ya3dvL$HM6Ly9yeS4ya3dvL"
-        },
-        {
-            "key": "稀饭2(js)",
-            "name": "稀饭2(js)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/lib4/drpy2.min.js",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/lib4/AppGet.js?type=url&params=https://oldapp.xfconnect.top$1yZ2Spn9krnzVKoC$1yZ2Spn9krnzVKoC"
         },
         {
             "key": "次元(js)",
@@ -3742,29 +3826,10 @@
             "logo": "https://epg.v1.mk/logo/{name}.png"
         },
         {
-            "name": "看电视2",
-            "type": 0,
-            "url": "http://8.138.7.223/93.php",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.v1.mk/logo/{name}.png"
-        },
-        {
             "name": "diyp",
             "type": 0,
             "url": "http://iptv.diyp.site/diyp.php",
             "ua": "okhttp/3.15"
-        },
-        {
-            "name": "merged_judy",
-            "type": 0,
-            "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
-            "ua": "Goiptv/0.0.1"
-        },
-        {
-            "name": "judy-gotv",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/judy-gotv/iptv/main/smart.txt",
-            "ua": "Goiptv/0.0.1"
         },
         {
             "name": "robyang",
@@ -3943,7 +4008,7 @@
             "name": "catvod_iptv",
             "type": 0,
             "url": "https://iptv.catvod.com/tv.m3u",
-            "ua": "okHttp/Mod-1.2.0"
+            "ua": "okHttp/Mod-1.3.0.0"
         },
         {
             "name": "蜂蜜",
@@ -4038,6 +4103,18 @@
             "name": "rad168",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/rad168/iptv/main/live.m3u"
+        },
+        {
+            "name": "merged_judy",
+            "type": 0,
+            "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
+            "ua": "Goiptv/0.0.1"
+        },
+        {
+            "name": "judy-gotv",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/judy-gotv/iptv/main/smart.txt",
+            "ua": "Goiptv/0.0.1"
         },
         {
             "name": "百宝箱",
