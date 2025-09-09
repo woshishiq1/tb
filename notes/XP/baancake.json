@@ -60,7 +60,7 @@
     "scVodNode": "//div[@class='module-item-cover']/a",
     "scVodName": "/@title",
     "scVodId": "/@href",
-    "scVodIdR": "",
+    "scVodIdR": "/GangJu/(\\w+).html",
     "scVodImg": "/img/@data-src",
     "scVodMark": "/../../div[@class='module-item-text']/text()"
 }
