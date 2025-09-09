@@ -584,7 +584,8 @@
                 "url": "https://ooxooxooxooxoo-1259561579.cos.ap-chengdu.myqcloud.com/ip.json",
                 "dataKey": "5ae8ee4bb95ea0ce",
                 "siteApi": "qiji",
-                "version": "120"
+                "version": "120",
+                "ua": "okhttp/3.10.0 BDYS/109.0.0.8"
             },
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
@@ -1007,13 +1008,6 @@
             "type": 3,
             "api": "csp_Wwys",
             "ext": "https://www.wwgz.cn",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
-        },
-        {
-            "key": "csp_Knys",
-            "name": "快鸟(SP)",
-            "type": 3,
-            "api": "csp_Knys",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
         },
         {
