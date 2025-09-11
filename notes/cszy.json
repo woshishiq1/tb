@@ -70,19 +70,8 @@
             "changeable": 1
         },
         {
-            "key": "红豆",
-            "name": "红豆(SP)",
-            "type": 3,
-            "api": "csp_AppYsV2Guard",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOK0+FRORAJ7epFjN2F+b62oTbKnNv+zj89eMviFBcbfFEe8jYhqrVuJPhQwYVw6DaRbsAFhCg06UF4EfNqSore66yYRm2oWbjVjKP+Vyo="
-        },
-        {
             "key": "糯米",
-            "name": "糯米影视(SP)",
+            "name": "糯米(SP)",
             "type": 3,
             "api": "csp_NmyswvGuard",
             "timeout": 15,
@@ -115,6 +104,16 @@
             }
         },
         {
+            "key": "鲸鱼",
+            "name": "鲸鱼(SP)",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/v1TAvdIvuChMackUUvW9kpKB+MLYeh4E6s3acbsBJ32o953hmRr4x"
+        },
+        {
             "key": "原创",
             "name": "原创(SP)",
             "type": 3,
@@ -131,6 +130,17 @@
             "type": 3,
             "api": "csp_LiteAppleGuard",
             "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "低端",
+            "name": "低端(SP)",
+            "type": 3,
+            "api": "csp_DdrkGuard",
+            "timeout": 15,
+            "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -160,35 +170,25 @@
             "ext": "uqGL1bNENExT7/hGxpSE5qU="
         },
         {
-            "key": "剧九",
-            "name": "剧九(SP)",
+            "key": "红豆",
+            "name": "红豆(SP)",
             "type": 3,
-            "api": "csp_AppYsV2Guard",
+            "api": "csp_AppSxGuard",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "rfOK0+FRORAJ7epFjN2F+LmhvGnF29fnxik8eJC3AAlFJl8e/Co3qKR3f7pI2cY5ozXZZ9dHjiJz7Ht9P/01UpTYurKeSnahWreewemiQ2fux0BkNEtR69ypVhP1Muo4YsZTow4IKQzyEtbS42eHS9QK"
+            "changeable": 1,
+            "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZ183jzSI6L432F1wEM1kc4mV87fQxIbwNi40y4T/RKJAUnj9z8A=="
         },
         {
             "key": "下饭",
             "name": "下饭(SP)",
             "type": 3,
-            "api": "csp_AppYsV2Guard",
+            "api": "csp_AppSxGuard",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "rfOK0+FRORAJ7epFjN2F+Lm9o2nF28P91TA4dIy3AAlFJl8e/Co3qKR3f7pI2cY5ozXZZ9dHjiJz7Ht9P/01UpTYurKeSnahWreewemiQ2fux0BkNEtR69ypVhP1Muo4YsZTow4IKQzyEtbS42eHS9QK"
-        },
-        {
-            "key": "低端",
-            "name": "低端影视(SP)",
-            "type": 3,
-            "api": "csp_DdrkGuard",
-            "timeout": 15,
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+            "ext": "rfOX1voDIQhH8epBwpmIsuSlujLK3sriwSIhL5XjHg0adEYJpXZ48P0hOq5X1M8s5yKKbc1C2H4563JjH/01RZDAuqM="
         },
         {
             "key": "奥特",
@@ -222,29 +222,6 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "https://www.xb6v.com/"
-        },
-        {
-            "key": "csp_Zxzj",
-            "name": "在线之家(SP)",
-            "type": 3,
-            "api": "csp_ZxzjGuard",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.zxzjhd.com/"
-        },
-        {
-            "key": "萌米",
-            "name": "萌米影视(SP)",
-            "type": 3,
-            "api": "csp_AppTTGuard",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "uqGL1bNENEIVq+dC1p/Y9uWjuA=="
         },
         {
             "key": "水星",
@@ -385,13 +362,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
-            "key": "csp_KmeiJu",
-            "name": "鸭梨(SP)",
-            "type": 3,
-            "api": "csp_KmeiJu",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
-        },
-        {
             "key": "csp_SaoHuo",
             "name": "火火(SP)",
             "type": 3,
@@ -404,6 +374,13 @@
             "name": "360影视(SP)",
             "type": 3,
             "api": "csp_SP360",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
+            "key": "csp_KmeiJu",
+            "name": "鸭梨(SP)",
+            "type": 3,
+            "api": "csp_KmeiJu",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
@@ -958,16 +935,16 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
         },
         {
-            "key": "csp_鲸鱼",
-            "name": "鲸鱼(SP)",
+            "key": "csp_鲸鱼2",
+            "name": "鲸鱼2(SP)",
             "type": 3,
             "api": "csp_AppQi",
             "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQd58LGascWuvwraVoz2iK+s=",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
         },
         {
-            "key": "鲸鱼2",
-            "name": "鲸鱼2(SP)",
+            "key": "鲸鱼3",
+            "name": "鲸鱼3(SP)",
             "type": 3,
             "api": "csp_AppQi",
             "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzffqLi7UXvCKdy6PzbDhzFq",
@@ -1213,7 +1190,7 @@
             "key": "奇妙",
             "name": "奇妙(py)",
             "type": 3,
-            "api": "https://13826.kstore.space/mioaying.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/mioaying2.py"
         },
         {
             "key": "csp_魔方",
