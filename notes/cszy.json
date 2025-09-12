@@ -1108,6 +1108,14 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
+            "key": "csp_xpath_ymvid",
+            "name": "粤漫(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/XP/ymvid.json",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
+        },
+        {
             "key": "csp_xpath_123hktv",
             "name": "123hktv(XP)",
             "type": 3,
