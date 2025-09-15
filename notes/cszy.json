@@ -441,10 +441,10 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/csurl.txt",
-                "dataKey": "Z98KXaLtO2wC1Pte",
+                "url": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
+                "dataKey": "da61247f5b662597",
                 "siteApi": "qiji",
-                "version": "119"
+                "version": "120"
             },
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
@@ -644,6 +644,19 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
+            "key": "爱看2(SP)",
+            "name": "爱看2(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://aikan.my",
+                "dataKey": "hzxjRSmyTmSE4ENE",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
             "key": "莱米(SP)",
             "name": "莱米(SP)",
             "type": 3,
@@ -795,6 +808,19 @@
                 "url": "https://get.mymifun.com",
                 "dataKey": "GETMIFUNGEIMIFUN",
                 "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
+            "key": "热剧",
+            "name": "热剧(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.rebovod.com",
+                "dataKey": "8191A7F47B37882F",
+                "siteApi": "qiji",
                 "version": ""
             },
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
@@ -954,8 +980,8 @@
             "key": "csp_大豆",
             "name": "大豆(SP)",
             "type": 3,
-            "api": "csp_AppGet",
-            "ext": "7PKaTzLgpGLqYV7cUF+dCEw/YtRQnWFqGURdQoZnM3s5khy5fqX3yGD7gACetGMWTQJv81SoDNcZI5UkNNLGqA==",
+            "api": "csp_AppQi",
+            "ext": "Ruh/okyt5lxEpcdQOao0NkSkj8M9vdB0soaZbGJldzA3817rfAzlvyWHCewZEFD4+BBCXxVVHkmAtv6gi+JRQlKwhK1WjuT8blTygReol77ICMmtZZPsmzfgjOtOXiEJ",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
         },
         {
@@ -1174,7 +1200,7 @@
             "key": "剧霸",
             "name": "剧霸(py)",
             "type": 3,
-            "api": "https://13826.kstore.space/jubaba.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/jubaba2.py"
         },
         {
             "key": "剧霸2",
