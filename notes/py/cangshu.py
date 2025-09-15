@@ -141,7 +141,8 @@ class Spider(Spider):
         return response.strip()
 
     def aes(self, text, b=None):
-        key = b"Z98KXaLtO2wC1Pte"
+#       key = b"Z98KXaLtO2wC1Pte"
+        key = b"da61247f5b662597"
         cipher = AES.new(key, AES.MODE_CBC, key)
         if b:
             ct_bytes = cipher.encrypt(pad(text.encode("utf-8"), AES.block_size))
@@ -207,3 +208,4 @@ class Spider(Spider):
         h = MD5.new()
         h.update(text.encode('utf-8'))
         return h.hexdigest()
+
