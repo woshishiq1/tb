@@ -16,10 +16,12 @@ class Spider(Spider):
         return "可可影视"
 
     def init(self, extend):
-        self.home_url = 'https://www.keke7.app'
+        self.home_url = 'https://www.kkys02.com'
+#       self.home_url = 'https://www.keke7.app'
         self.headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
-            "Referer": "https://www.keke7.app/",
+            "Referer": "https://www.kkys02.com",
+  #         "Referer": "https://www.keke7.app/",
         }
         # 初始化时尝试获取图片域名
         self.image_domain = self.fetch_image_domain()
