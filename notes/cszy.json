@@ -371,16 +371,9 @@
         },
         {
             "key": "csp_SP360",
-            "name": "360影视(SP)",
+            "name": "360(SP)",
             "type": 3,
             "api": "csp_SP360",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
-        },
-        {
-            "key": "csp_KmeiJu",
-            "name": "鸭梨(SP)",
-            "type": 3,
-            "api": "csp_KmeiJu",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
@@ -558,7 +551,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://180.97.215.140:1080",
+                "url": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/1.txt",
                 "dataKey": "staraugust123456",
                 "siteApi": "qiji",
                 "version": "120"
@@ -605,19 +598,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
-            "key": "柠檬",
-            "name": "柠檬(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://45.207.212.137",
-                "dataKey": "a006661b01bdebbd",
-                "siteApi": "get",
-                "version": ""
-            },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
-        },
-        {
             "key": "豆丁",
             "name": "豆丁(SP)",
             "type": 3,
@@ -644,8 +624,8 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
-            "key": "爱看2(SP)",
-            "name": "爱看2(SP)",
+            "key": "aikan",
+            "name": "aikan(SP)",
             "type": 3,
             "api": "csp_AppGet",
             "ext": {
@@ -683,6 +663,19 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
+            "key": "魔方(SP)",
+            "name": "魔方(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.pjb523.sbs",
+                "dataKey": "1234567887654321",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
             "key": "白蛇(SP)",
             "name": "白蛇(SP)",
             "type": 3,
@@ -709,6 +702,19 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
+            "key": "斗量(SP)",
+            "name": "斗量(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://app-cms-v10-1314306855.cos.ap-guangzhou.myqcloud.com/appcms.php",
+                "dataKey": "A1akVPQmnnE4Fz9Z",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
             "key": "追番",
             "name": "追番(SP)",
             "type": 3,
@@ -716,6 +722,19 @@
             "ext": {
                 "url": "https://app1.ystva.com",
                 "dataKey": "A1akVPQmnnE4Fz9Z",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
+            "key": "方舟",
+            "name": "方舟(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.cyfz.vip",
+                "dataKey": "e72cdfd629e8895d",
                 "siteApi": "get",
                 "version": ""
             },
@@ -826,14 +845,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
-            "key": "天天",
-            "name": "天天(SP)",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "ext": "jsSMEuhTZIAHjnUoLBzKdlRu5exzno6M4efF8LzwjWM=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
-        },
-        {
             "key": "浪酷",
             "name": "浪酷(SP)",
             "type": 3,
@@ -913,27 +924,11 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
         },
         {
-            "key": "云速2",
-            "name": "云速2(SP)",
-            "type": 3,
-            "api": "csp_AppQi",
-            "ext": "9ee0oa0Y30GapSvZ2C2RVE2HwH08KKvP0VhAZCVWpnluXpZNLRZrNCMeKyCWw1JOj3jlA6tSdRPHvvTyBCuIMzwlKeODvXst4zEi0DFYqmEXOu+cG8rF7/kIckBMVYvn",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
-        },
-        {
             "key": "麻花",
             "name": "麻花(SP)",
             "type": 3,
             "api": "csp_AppQi",
             "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzesNDM87sUul1Ii8NbP2XB5",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
-        },
-        {
-            "key": "麻花2",
-            "name": "麻花2(SP)",
-            "type": 3,
-            "api": "csp_AppQi",
-            "ext": "lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZsDdvpB5GqFDm8YyeyiKclJTSLQ/tOARL2p/dbX8OIae9/PHnAUKONnpKuoD52E5AT",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
         },
         {
@@ -1197,18 +1192,6 @@
             }
         },
         {
-            "key": "剧霸",
-            "name": "剧霸(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/html/剧粑粑.py"
-        },
-        {
-            "key": "剧霸2",
-            "name": "剧霸2(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/py_jubaba.py"
-        },
-        {
             "key": "UPUP",
             "name": "UPUP(py)",
             "type": 3,
@@ -1251,12 +1234,6 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/热播APP.py"
         },
         {
-            "key": "csp_py_天天",
-            "name": "天天(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/天天APP.py"
-        },
-        {
             "key": "csp_py_浪酷",
             "name": "浪酷(py)",
             "type": 3,
@@ -1275,18 +1252,6 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/py_jieyingshi.py"
         },
         {
-            "key": "csp_py_桃子",
-            "name": "桃子(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/桃子.py"
-        },
-        {
-            "key": "csp_边缘",
-            "name": "边缘(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/边缘.py"
-        },
-        {
             "key": "csp_猎手",
             "name": "猎手(py)",
             "type": 3,
@@ -1299,24 +1264,6 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/lingdu.py"
         },
         {
-            "key": "追星",
-            "name": "追星(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/追星影视.py"
-        },
-        {
-            "key": "csp_海马",
-            "name": "海马(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/海马影视APP.py"
-        },
-        {
-            "key": "若惜(py)",
-            "name": "若惜(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/若惜追剧APP.py"
-        },
-        {
             "key": "csp_云速",
             "name": "云速(py)",
             "type": 3,
@@ -1327,12 +1274,6 @@
             "name": "光速(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/光速影视.py"
-        },
-        {
-            "key": "csp_国外剧",
-            "name": "国外剧(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/国外剧APP.py"
         },
         {
             "key": "csp_绝影",
@@ -1389,18 +1330,6 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/厂长资源2.py"
         },
         {
-            "key": "csp_茶杯狐",
-            "name": "茶杯狐(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/茶杯狐影视.py"
-        },
-        {
-            "key": "csp_py_瓜萌",
-            "name": "瓜萌(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/瓜萌APP.py"
-        },
-        {
             "key": "csp_py_bttwoo",
             "name": "bttwoo(py)",
             "type": 3,
@@ -1411,24 +1340,6 @@
             "name": "云端(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/云端APP.py"
-        },
-        {
-            "key": "爱壹帆",
-            "name": "爱壹帆(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/爱壹帆.py"
-        },
-        {
-            "key": "cnotv",
-            "name": "cnotv(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/cnotv.py"
-        },
-        {
-            "key": "泥视频",
-            "name": "泥视频(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/泥视频.py"
         },
         {
             "key": "csp_py_荐片",
@@ -1443,16 +1354,10 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/华数TV.py"
         },
         {
-            "key": "MiFun",
-            "name": "MiFun(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/mifun.py"
-        },
-        {
             "key": "csp_三号动漫",
             "name": "三号动漫(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/三号动漫APP.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/三号动漫APP.py"
         },
         {
             "key": "嗷呜动漫",
@@ -1467,16 +1372,10 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/哔哩视频.py"
         },
         {
-            "key": "蓝莓",
-            "name": "蓝莓(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/py_蓝莓短剧.py"
-        },
-        {
             "key": "csp_红果",
             "name": "红果(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/html/红果网页.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/红果网页.py"
         },
         {
             "key": "csp_偷乐",
@@ -1501,12 +1400,6 @@
             "name": "甜圈(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/甜圈短剧.py"
-        },
-        {
-            "key": "爱看",
-            "name": "爱看(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/爱看短剧.py"
         },
         {
             "key": "锦鲤",
@@ -1620,13 +1513,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
-            "key": "csp_臻彩",
-            "name": "臻彩(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2Guard",
-            "ext": "http://cmszcsj.lfytv.cn/api.php/app/"
-        },
-        {
             "key": "csp_猪猪",
             "name": "猪猪(V2)",
             "type": 3,
@@ -1693,6 +1579,39 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "爱壹帆",
+            "name": "爱壹帆(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.iyf.lv/k/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类": "电影$1#剧集$2#综艺$3#动漫$4"
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "泥视频",
+            "name": "泥视频(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.nivod.vip/k/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类": "电影$1#剧集$2#综艺$3#动漫$4"
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "cnotv",
+            "name": "cnotv(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://cnotv.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#体育纪录片$5#短剧$51"
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "老王影视",
             "name": "老王影视(XBPQ)",
             "type": 3,
@@ -1708,8 +1627,8 @@
             "type": 3,
             "api": "csp_XBPQ",
             "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/java/master/notes/XBPQ/兄弟.json",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/XBPQ/兄弟.json",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "西瓜",
@@ -2105,14 +2024,6 @@
                 "分类url": "https://www.idsp.cc/type/{cateId}-{catePg}.html",
                 "分类": "精品短剧$1#短剧大全$2#抖音短剧$3#西瓜视频$4"
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
-            "key": "好帅短剧",
-            "name": "好帅短剧(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/XBPQ/好帅短剧.json",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
@@ -2576,13 +2487,6 @@
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/js/星芽短剧.js"
         },
         {
-            "key": "蓝莓短剧(js)",
-            "name": "蓝莓短剧(js)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/lib4/drpy2.min.js",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/js/蓝莓短剧.js"
-        },
-        {
             "key": "红果短剧(js)",
             "name": "红果短剧(js)",
             "type": 3,
@@ -2644,12 +2548,6 @@
             "name": "聚合短剧",
             "type": 4,
             "api": "https://zhxy.eu.org/api/聚合短剧[短]"
-        },
-        {
-            "key": "蓝莓短剧",
-            "name": "蓝莓短剧",
-            "type": 4,
-            "api": "https://zhxy.eu.org/api/蓝莓短剧[短]"
         },
         {
             "key": "csp_xml_黑木",
