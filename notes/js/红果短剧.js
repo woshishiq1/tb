@@ -1,6 +1,6 @@
 var rule = {
   title: '红果短剧',
-  host: 'https://www.hongguodj.cc/',
+  host: 'https://www.hongguodj1.cc',
   url: '/show/fyclass--------fypage---.html',
   searchUrl: '/search/**----------fypage---.html',
   class_parse: '.nav li;a&&Text;a&&href;.*/(.*?).html',
