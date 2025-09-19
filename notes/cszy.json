@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0910.jpg;md5;98ca59a872d6d4d89c8c7e2aafb4dae1",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0917.jpg;md5;98ca59a872d6d4d89c8c7e2aafb4dae1",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -702,13 +702,13 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
-            "key": "斗量(SP)",
-            "name": "斗量(SP)",
+            "key": "像素(SP)",
+            "name": "像素(SP)",
             "type": 3,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://app-cms-v10-1314306855.cos.ap-guangzhou.myqcloud.com/appcms.php",
-                "dataKey": "A1akVPQmnnE4Fz9Z",
+                "url": "https://mcvod.top",
+                "dataKey": "cnmbknmbtounimab",
                 "siteApi": "get",
                 "version": ""
             },
@@ -850,7 +850,7 @@
             "type": 3,
             "api": "csp_AppRJ",
             "ext": "Z2MNziRBwjQxqaBuUxNkDRyvTntIkN1cOXhjyWgjCTc=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285"
         },
         {
             "key": "热热",
@@ -858,7 +858,7 @@
             "type": 3,
             "api": "csp_AppRJ",
             "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285"
         },
         {
             "key": "csp_Wwys",
@@ -866,14 +866,14 @@
             "type": 3,
             "api": "csp_Wwys",
             "ext": "https://www.wwgz.cn",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285"
         },
         {
             "key": "csp_瓜子",
             "name": "瓜子(SP)",
             "type": 3,
             "api": "csp_Gz360",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285"
         },
         {
             "key": "追忆",
@@ -881,7 +881,7 @@
             "type": 3,
             "api": "csp_AppSy",
             "ext": "oJGDh+VBrPcwnx19VbSGqy9EkivA/Gc+cSt3uSBzyPzDTmKYyoi6Wr4VgqU2u0Sh7AAuGc4/a7UWVU6BEmFetA==",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285"
         },
         {
             "key": "幕启",
@@ -889,7 +889,7 @@
             "type": 3,
             "api": "csp_AppSy",
             "ext": "J7WBJTWvt49Rro0WaKnCpcwiAwtiA57atMnVBDAP3YRNynoyyCyLIvc6/nXpdo/2nerMlKFDJbIGRKuy0qJdB6Qkf23z5CWmuH7UTrHERqI=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285"
         },
         {
             "key": "AppQi1",
@@ -897,7 +897,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiq/bSU1IhcLmPsn25NijfG6B3fLoAmVGEL0/tWb+o0nZYn1u5i3pWNxWaYYmNV1x0c=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285"
         },
         {
             "key": "csp_仓鼠",
@@ -905,7 +905,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZsEMYaTrPKBtx3YUMTA+XHh7FPLmLfqp6gWseDzGVsgesALIba2gHVzuE75Sx1II8A",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285"
         },
         {
             "key": "布蕾",
@@ -913,7 +913,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "KgJbeb5sUfDKrPR2kL+eSnS2/p1vUzgiO9/kBzkhPIPRpqLXPCDc4tA9MXMdokFN",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285"
         },
         {
             "key": "云速",
@@ -921,6 +921,14 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzfiJ2fHkCRZg4+8NFWs+b1X",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285"
+        },
+        {
+            "key": "云速2",
+            "name": "云速2(SP)",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "9ee0oa0Y30GapSvZ2C2RVE2HwH08KKvP0VhAZCVWpnluXpZNLRZrNCMeKyCWw1JOnmBt4WntUB96Gzw7GkroAUK4RePU806mDtHSmD09164W8EWpaWaU/Gg8nPkgUt5F",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
         },
         {
@@ -929,7 +937,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzesNDM87sUul1Ii8NbP2XB5",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285"
         },
         {
             "key": "csp_加菲",
@@ -937,7 +945,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiq/bSU1IhcLmPsn25NijfG6B3fLoAmVGEL0/tWb+o0nZYn1u5i3pWNxWaYYmNV1x0c=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285"
         },
         {
             "key": "csp_比迪",
@@ -945,7 +953,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "HM+RJliOAzVbMKoUegXt5SVTp6lV507+wK0S5QCxiEEA9zs/swmgAb3z+F5RUY21tC1US86Wo/2RunTWZsPUxuLk0B4X5G0RneEJEfEV4CWzDmIx8mdFYBlSJiwJcoNYioDEVsg76bXpsGDfXTT4Mb092SQ1oS22g2A1GUtEcn8=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285"
         },
         {
             "key": "csp_咖啡",
@@ -953,7 +961,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "iCAfNu0lnzDbPNyRZNPADkQjEsRXYXbhzP+dNzKN1SEfbPPIOKvEKGUJbNHH/Enk8UofJl+f8LL+N/h69EZDaFMMPeCDLq9N1TV0aTDfIY89NkrX+nhIaX9d//xiiVns",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285"
         },
         {
             "key": "csp_鲸鱼2",
@@ -961,7 +969,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQd58LGascWuvwraVoz2iK+s=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285"
         },
         {
             "key": "鲸鱼3",
@@ -969,7 +977,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzffqLi7UXvCKdy6PzbDhzFq",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285"
         },
         {
             "key": "csp_大豆",
@@ -977,14 +985,14 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "Ruh/okyt5lxEpcdQOao0NkSkj8M9vdB0soaZbGJldzA3817rfAzlvyWHCewZEFD4+BBCXxVVHkmAtv6gi+JRQlKwhK1WjuT8blTygReol77ICMmtZZPsmzfgjOtOXiEJ",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285"
         },
         {
             "key": "csp_FreeOk",
             "name": "FreeOk(SP)",
             "type": 3,
             "api": "csp_FreeOk",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285"
         },
         {
             "key": "csp_农民",
@@ -992,7 +1000,7 @@
             "type": 3,
             "api": "csp_Wwys",
             "ext": "https://www.wwgz.cn",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285"
         },
         {
             "key": "csp_AppXY",
@@ -1000,14 +1008,14 @@
             "type": 3,
             "api": "csp_AppXY",
             "ext": "https://xvapp.xingya.com.cn",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285"
         },
         {
             "key": "csp_Duanju",
             "name": "短剧(SP)",
             "type": 3,
             "api": "csp_DuanJu",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285"
         },
         {
             "key": "csp_BookTing",
@@ -1015,7 +1023,7 @@
             "type": 3,
             "api": "csp_BookTing",
             "ext": "https://m.i275.com",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285"
         },
         {
             "key": "火猫",
