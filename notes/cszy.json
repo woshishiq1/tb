@@ -768,20 +768,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
-            "key": "哔滴",
-            "name": "哔滴(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://test.cms.bidiys.com",
-                "dataKey": "5ae8ee4bb95ea0ce",
-                "siteApi": "qiji",
-                "version": "120",
-                "ua": "okhttp/3.10.0 BDYS/109.0.0.8"
-            },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
-        },
-        {
             "key": "追番",
             "name": "追番(SP)",
             "type": 3,
@@ -1462,6 +1448,18 @@
             "name": "云端(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/云端APP.py"
+        },
+        {
+            "key": "csp_4KVM",
+            "name": "4KVM(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/4KVM.py"
+        },
+        {
+            "key": "永乐",
+            "name": "永乐(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/永乐.py"
         },
         {
             "key": "csp_py_荐片",
