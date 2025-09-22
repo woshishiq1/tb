@@ -370,14 +370,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
-            "key": "csp_FourK",
-            "name": "绝对(SP)",
-            "type": 3,
-            "api": "csp_FourK",
-            "ext": "https://www.4kvm.org",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
-        },
-        {
             "key": "csp_SP360",
             "name": "360(SP)",
             "type": 3,
@@ -966,20 +958,6 @@
             "type": 3,
             "api": "csp_Wwys",
             "ext": "https://www.wwgz.cn",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0919-1.jar;md5;724d886bff3678ff154973d2bc1834ef"
-        },
-        {
-            "key": "csp_ChenLuo",
-            "name": "尘落(SP)",
-            "type": 3,
-            "api": "csp_ChenLuo",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0919-1.jar;md5;724d886bff3678ff154973d2bc1834ef"
-        },
-        {
-            "key": "csp_Kanke",
-            "name": "看客(SP)",
-            "type": 3,
-            "api": "csp_Kanke",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0919-1.jar;md5;724d886bff3678ff154973d2bc1834ef"
         },
         {
