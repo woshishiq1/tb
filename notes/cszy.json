@@ -499,7 +499,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://app.lkdyw.cn/",
+                "url": "https://app.lkdyw.cn",
                 "dataKey": "e65144389e9361b5",
                 "siteApi": "get",
                 "version": ""
@@ -551,7 +551,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/1.txt",
+                "url": "http://110.42.67.55:1080",
                 "dataKey": "staraugust123456",
                 "siteApi": "qiji",
                 "version": "120"
