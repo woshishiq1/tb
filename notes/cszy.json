@@ -335,7 +335,6 @@
             "name": "奇优(SP)",
             "type": 3,
             "api": "csp_Qiyou",
-            "ext": "http://www.dyxz2.com",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
@@ -366,7 +365,6 @@
             "name": "火火(SP)",
             "type": 3,
             "api": "csp_SaoHuo",
-            "ext": "https://shdy5.us",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
