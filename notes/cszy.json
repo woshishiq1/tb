@@ -1694,7 +1694,7 @@
             "api": "csp_XBPQ",
             "ext": {
                 "分类url": "https://sszzyy.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
-                "分类": "电影$20#剧集$37#动漫$43#综艺$45#B站$47#短剧$57",
+                "分类": "电影$20#剧集$37#动漫$43#综艺$45#B站$47#短剧$57"
             },
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
