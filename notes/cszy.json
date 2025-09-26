@@ -687,6 +687,19 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
         },
         {
+            "key": "奈飞",
+            "name": "奈飞(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://movier.ink",
+                "dataKey": "moviermovierink9",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+        },
+        {
             "key": "迪吧",
             "name": "迪吧(SP)",
             "type": 3,
@@ -1066,7 +1079,7 @@
             "name": "星芽(SP)",
             "type": 3,
             "api": "csp_AppXY",
-            "ext": "https://xvapp.xingya.com.cn",
+            "ext": "https://app.whjzjx.cn",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
         },
         {
@@ -1457,6 +1470,12 @@
             "name": "剧王(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/剧王短剧.py"
+        },
+        {
+            "key": "星芽",
+            "name": "星芽(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/星芽短剧.py"
         },
         {
             "key": "csp_xpath_laowang",
