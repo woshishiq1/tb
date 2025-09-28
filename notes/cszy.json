@@ -3897,6 +3897,12 @@
             "url": "https://fy.188766.xyz/?ip=192.168.2.231"
         },
         {
+            "name": "冰茶3",
+            "type": 0,
+            "url": "https://fy.188766.xyz/?ip=&json=true",
+            "ua": "bingcha/1.1"
+        },
+        {
             "name": "乐享",
             "type": 0,
             "url": "http://69.165.65.138:5566/gggg.txt"
@@ -3978,7 +3984,7 @@
             "name": "蜂蜜",
             "type": 0,
             "url": "http://dd.ma/sXzhujlk",
-            "ua": "Goiptv/8.8.8"
+            "ua": "Lavf/58.12.100"
         },
         {
             "name": "fhtv",
