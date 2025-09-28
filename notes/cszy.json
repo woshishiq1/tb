@@ -1854,10 +1854,7 @@
             "name": "秀儿(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://xiuer.pro/show/{cateId}/page/{catePg}/",
-                "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju#纪录片$jilupian"
-            },
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/XBPQ/xiuer.json",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
