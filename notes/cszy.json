@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0925.jpg;md5;e0739e1404018d77ae4e039bf44094d7",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/f0927.jpg;md5;cba66f046cc8da91e888605c155828a3",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -1072,14 +1072,6 @@
             "type": 3,
             "api": "csp_Wwys",
             "ext": "https://www.wwgz.cn",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
-        },
-        {
-            "key": "csp_AppXY",
-            "name": "星芽(SP)",
-            "type": 3,
-            "api": "csp_AppXY",
-            "ext": "https://app.whjzjx.cn",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
         },
         {
