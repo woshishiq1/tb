@@ -320,7 +320,7 @@
             "name": "TVB云播(SP)",
             "type": 3,
             "api": "csp_Tvyb",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/PandaQ250808.jpg;md5;1099f9cedab19f487ac8fc283d9ca447"
         },
         {
             "key": "csp_Jiaozi",
@@ -1248,6 +1248,20 @@
             }
         },
         {
+            "key": "漫漫国(py)",
+            "name": "漫漫国(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/sharkapp3.1.py",
+            "ext": {
+                "host": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
+                "hostkey": "rectangleadsadxa",
+                "parseskey": "aassddwwxxllsx1x",
+                "listkey": "aassddwwxxllsx1x",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
             "key": "UPUP",
             "name": "UPUP(py)",
             "type": 3,
@@ -1408,6 +1422,12 @@
             "name": "永乐(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/永乐.py"
+        },
+        {
+            "key": "影视工厂",
+            "name": "影视工厂(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/影视工厂.py"
         },
         {
             "key": "csp_py_荐片",
@@ -1616,6 +1636,13 @@
             "type": 3,
             "api": "csp_AppYsV2Guard",
             "ext": "http://99cms.jj99.icu:8199/api.php/app/"
+        },
+        {
+            "key": "天天美剧",
+            "name": "天天美剧(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2Guard",
+            "ext": "https://www.ttmja.com/api.php/app/"
         },
         {
             "key": "易剧集",
@@ -2039,6 +2066,17 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "XBPQ_JQQZX",
+            "name": "剧圈圈(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.jqqzx.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+                "分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian#爽剧$shuangju"
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "樱花动漫",
             "name": "樱花动漫(XBPQ)",
             "type": 3,
@@ -2379,6 +2417,20 @@
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/js/看了么3.js"
         },
         {
+            "key": "230听书(js)",
+            "name": "230听书(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/lib4/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/js/230ts.js"
+        },
+        {
+            "key": "酷我听书(js)",
+            "name": "酷我听书(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/lib4/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/js/酷我听书.js"
+        },
+        {
             "key": "六月听书(js)",
             "name": "六月听书(js)",
             "type": 3,
@@ -2644,6 +2696,12 @@
             "name": "子子(xml)",
             "type": 1,
             "api": "http://www.ziziys.net/api.php/provide/vod/"
+        },
+        {
+            "key": "csp_xml_猫眼",
+            "name": "猫眼(xml)",
+            "type": 1,
+            "api": "https://api.maoyanapi.top/api.php/provide/vod/"
         },
         {
             "key": "csp_xml_如意",
