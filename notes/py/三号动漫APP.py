@@ -125,7 +125,7 @@ class Spider(Spider):
             'Connection': 'Keep-Alive'
         }
 #       response = self.fetch('https://shopv1.oss-accelerate.aliyuncs.com/api.txt', headers=headers).text
-        response = self.fetch('https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/py/ext/sanhao.txt', headers=headers).text
+        response = self.fetch('https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/py/ext/sanhao.txt', headers=headers).text
         host=json.loads(self.aes(response.strip(),self.keys[0]))[0]
         return host
 
