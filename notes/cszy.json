@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/f0927.jpg;md5;cba66f046cc8da91e888605c155828a3",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/f1002.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -110,7 +110,7 @@
             "api": "csp_AppSxGuard",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
+            "filterable": 1,
             "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/v1TAvdIvuChMackUUvW9kpKB+MLYeh4E6s3acbsBJ32o953hmRr4x"
         },
         {
@@ -236,7 +236,7 @@
         },
         {
             "key": "csp_Dm84",
-            "name": "动漫巴士(SP)",
+            "name": "巴士动漫(SP)",
             "type": 3,
             "api": "csp_Dm84Guard",
             "timeout": 15,
@@ -246,7 +246,7 @@
         },
         {
             "key": "csp_Ysj",
-            "name": "异世界动漫(SP)",
+            "name": "异界动漫(SP)",
             "type": 3,
             "api": "csp_YsjGuard",
             "timeout": 15,
@@ -310,8 +310,8 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/jar_fty250223.jar;md5;9a4e27dc8671d07587f5cb752ea80fd3"
         },
         {
-            "key": "每日港剧",
-            "name": "每日港剧(xml)",
+            "key": "每日",
+            "name": "每日(xml)",
             "type": 1,
             "api": "https://mrgj.cc/api.php/provide/vod/"
         },
@@ -320,14 +320,14 @@
             "name": "TVB云播(SP)",
             "type": 3,
             "api": "csp_Tvyb",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ0725.jpg;md5;4bb05945b726cf06209fb3b562f6aa83"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "csp_Jiaozi",
             "name": "饺子(SP)",
             "type": 3,
             "api": "csp_Jiaozi",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "csp_Xlys",
@@ -335,21 +335,21 @@
             "type": 3,
             "api": "csp_Xlys",
             "ext": "https://www.xlys02.com",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "csp_Qiyou",
             "name": "奇优(SP)",
             "type": 3,
             "api": "csp_Qiyou",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "csp_SaoHuo",
             "name": "火火(SP)",
             "type": 3,
             "api": "csp_SaoHuo",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "csp_Lkdy",
@@ -357,7 +357,7 @@
             "type": 3,
             "api": "csp_Lkdy",
             "ext": "https://lkvod.com",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "csp_Quanwk",
@@ -365,14 +365,14 @@
             "type": 3,
             "api": "csp_Quanwk",
             "ext": "https://www.91qkw.com",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "csp_SP360",
             "name": "360(SP)",
             "type": 3,
             "api": "csp_SP360",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "肥猫",
@@ -385,7 +385,7 @@
                 "siteApi": "get",
                 "version": "201"
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "光盘",
@@ -398,7 +398,7 @@
                 "siteApi": "qiji",
                 "version": "120"
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "行动",
@@ -411,7 +411,7 @@
                 "siteApi": "qiji",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "再来",
@@ -424,7 +424,7 @@
                 "siteApi": "qiji",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "一碗",
@@ -437,7 +437,7 @@
                 "siteApi": "qiji",
                 "version": "120"
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "耗子",
@@ -450,7 +450,7 @@
                 "siteApi": "qiji",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "蔬菜",
@@ -463,7 +463,7 @@
                 "siteApi": "get",
                 "version": "140"
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "黑猫",
@@ -476,7 +476,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "优优",
@@ -489,7 +489,7 @@
                 "siteApi": "get",
                 "version": "107"
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "永永",
@@ -502,7 +502,15 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
+        },
+        {
+            "key": "冷心",
+            "name": "冷心(SP)",
+            "type": 3,
+            "api": "csp_AppMuou",
+            "ext": "http://app.789dd.cn|火猫影视",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "光影",
@@ -515,7 +523,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "狂人",
@@ -528,7 +536,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "旗星",
@@ -541,7 +549,7 @@
                 "siteApi": "get",
                 "version": "120"
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "云云",
@@ -554,7 +562,7 @@
                 "siteApi": "qiji",
                 "version": "120"
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "五八",
@@ -567,7 +575,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "豆丁",
@@ -580,7 +588,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "aikan",
@@ -593,7 +601,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "莱米(SP)",
@@ -606,7 +614,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "丫丫(SP)",
@@ -619,7 +627,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "魔方(SP)",
@@ -632,7 +640,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "白蛇(SP)",
@@ -645,7 +653,7 @@
                 "siteApi": "get",
                 "version": "361"
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "万能(SP)",
@@ -658,7 +666,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "像素(SP)",
@@ -671,7 +679,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "影视",
@@ -684,7 +692,86 @@
                 "siteApi": "qiji",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
+        },
+        {
+            "key": "小猪",
+            "name": "小猪(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt",
+                "dataKey": "seb5tq9mykp2w9ry",
+                "siteApi": "qiji",
+                "version": "",
+                "ua": "okhttp/3.10.0"
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
+        },
+        {
+            "key": "八天",
+            "name": "八天(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://dy.8ttv.cn",
+                "dataKey": "1111111111111111",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
+        },
+        {
+            "key": "紫金",
+            "name": "紫金(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://www.zjcvod.com",
+                "dataKey": "ab4e9a421675f14b",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
+        },
+        {
+            "key": "刷剧",
+            "name": "刷剧(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://dingchaowangzhan.oss-cn-beijing.aliyuncs.com/1.txt",
+                "dataKey": "1387006363333333",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
+        },
+        {
+            "key": "九零",
+            "name": "九零(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://65fs2d9awaa1d2a7ea8.019990.xyz",
+                "dataKey": "5a9w6x58dsq6z3a6",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
+        },
+        {
+            "key": "狂欢",
+            "name": "狂欢(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://m.m.m.kahzw.com",
+                "dataKey": "xnybssspqtwotuwj",
+                "siteApi": "get",
+                "version": ""
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "奈飞",
@@ -697,7 +784,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "迪吧",
@@ -710,7 +797,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "米奇",
@@ -723,7 +810,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "星星",
@@ -737,7 +824,7 @@
                 "version": "",
                 "ua": "okhttp/3.10.0 BDYS/109.0.0.8"
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "追番",
@@ -750,7 +837,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "冬日",
@@ -763,7 +850,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "漫屋",
@@ -776,7 +863,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "方舟",
@@ -789,7 +876,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "元咲",
@@ -802,7 +889,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "番薯",
@@ -815,7 +902,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "凛冬",
@@ -828,7 +915,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "曼波(SP)",
@@ -841,7 +928,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "稀饭(SP)",
@@ -854,7 +941,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "咕咕(SP)",
@@ -867,7 +954,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "派对(SP)",
@@ -880,7 +967,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "米饭(SP)",
@@ -893,7 +980,7 @@
                 "siteApi": "get",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "热剧",
@@ -906,7 +993,7 @@
                 "siteApi": "qiji",
                 "version": ""
             },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/PandaQ251003.jpg;md5;be9654326035e9a2c43563d3591c2daf"
         },
         {
             "key": "浪酷",
@@ -914,7 +1001,7 @@
             "type": 3,
             "api": "csp_AppRJ",
             "ext": "Z2MNziRBwjQxqaBuUxNkDRyvTntIkN1cOXhjyWgjCTc=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0930logo.png;md5;673e105f447b397553abc81447497f6f"
         },
         {
             "key": "热热",
@@ -922,7 +1009,7 @@
             "type": 3,
             "api": "csp_AppRJ",
             "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0930logo.png;md5;673e105f447b397553abc81447497f6f"
         },
         {
             "key": "csp_Wwys",
@@ -930,14 +1017,14 @@
             "type": 3,
             "api": "csp_Wwys",
             "ext": "https://www.wwgz.cn",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0930logo.png;md5;673e105f447b397553abc81447497f6f"
         },
         {
             "key": "csp_瓜子",
             "name": "瓜子(SP)",
             "type": 3,
             "api": "csp_Gz360",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0930logo.png;md5;673e105f447b397553abc81447497f6f"
         },
         {
             "key": "追忆",
@@ -945,7 +1032,7 @@
             "type": 3,
             "api": "csp_AppSy",
             "ext": "oJGDh+VBrPcwnx19VbSGqy9EkivA/Gc+cSt3uSBzyPzDTmKYyoi6Wr4VgqU2u0Sh7AAuGc4/a7UWVU6BEmFetA==",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0930logo.png;md5;673e105f447b397553abc81447497f6f"
         },
         {
             "key": "AppQi1",
@@ -953,7 +1040,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiqzXAOG2XsUSh62armSJmz6+8BN455Lbt5tpPqGfXnKgoQ1N+ZOhu3N/KDZ+r/7HZc=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0930logo.png;md5;673e105f447b397553abc81447497f6f"
         },
         {
             "key": "csp_仓鼠",
@@ -961,7 +1048,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZsEMYaTrPKBtx3YUMTA+XHh7FPLmLfqp6gWseDzGVsgesALIba2gHVzuE75Sx1II8A",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0930logo.png;md5;673e105f447b397553abc81447497f6f"
         },
         {
             "key": "布蕾",
@@ -969,7 +1056,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "KgJbeb5sUfDKrPR2kL+eSnS2/p1vUzgiO9/kBzkhPIPRpqLXPCDc4tA9MXMdokFN",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0930logo.png;md5;673e105f447b397553abc81447497f6f"
         },
         {
             "key": "云速",
@@ -977,7 +1064,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzfiJ2fHkCRZg4+8NFWs+b1X",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0930logo.png;md5;673e105f447b397553abc81447497f6f"
         },
         {
             "key": "云速2",
@@ -993,7 +1080,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzesNDM87sUul1Ii8NbP2XB5",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0930logo.png;md5;673e105f447b397553abc81447497f6f"
         },
         {
             "key": "麻花2",
@@ -1001,7 +1088,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "L5CUOokkdA53FISUojI6hPrPTI97cTkdA/ji0bBBqAxKRl2ZBcdyMIPZYXkkVxwyvG4rB4PEPXKIt7+cirUe3BI+KdfWiEtEO4bT/XoF0PYU0GWsBFU3ARUcHsGqNpNy",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0930logo.png;md5;673e105f447b397553abc81447497f6f"
         },
         {
             "key": "csp_加菲",
@@ -1009,7 +1096,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiq/bSU1IhcLmPsn25NijfG6B3fLoAmVGEL0/tWb+o0nZYn1u5i3pWNxWaYYmNV1x0c=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0930logo.png;md5;673e105f447b397553abc81447497f6f"
         },
         {
             "key": "csp_比迪",
@@ -1017,7 +1104,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "HM+RJliOAzVbMKoUegXt5SVTp6lV507+wK0S5QCxiEEA9zs/swmgAb3z+F5RUY21tC1US86Wo/2RunTWZsPUxuLk0B4X5G0RneEJEfEV4CWzDmIx8mdFYBlSJiwJcoNYioDEVsg76bXpsGDfXTT4Mb092SQ1oS22g2A1GUtEcn8=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0930logo.png;md5;673e105f447b397553abc81447497f6f"
         },
         {
             "key": "csp_咖啡",
@@ -1025,7 +1112,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "iCAfNu0lnzDbPNyRZNPADkQjEsRXYXbhzP+dNzKN1SEfbPPIOKvEKGUJbNHH/Enk8UofJl+f8LL+N/h69EZDaFMMPeCDLq9N1TV0aTDfIY89NkrX+nhIaX9d//xiiVns",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0930logo.png;md5;673e105f447b397553abc81447497f6f"
         },
         {
             "key": "csp_鲸鱼2",
@@ -1033,7 +1120,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQd58LGascWuvwraVoz2iK+s=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0930logo.png;md5;673e105f447b397553abc81447497f6f"
         },
         {
             "key": "鲸鱼3",
@@ -1041,7 +1128,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzffqLi7UXvCKdy6PzbDhzFq",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0930logo.png;md5;673e105f447b397553abc81447497f6f"
         },
         {
             "key": "csp_大豆",
@@ -1049,7 +1136,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "Ruh/okyt5lxEpcdQOao0NkSkj8M9vdB0soaZbGJldzA3817rfAzlvyWHCewZEFD4+BBCXxVVHkmAtv6gi+JRQlKwhK1WjuT8blTygReol77ICMmtZZPsmzfgjOtOXiEJ",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0930logo.png;md5;673e105f447b397553abc81447497f6f"
         },
         {
             "key": "爆炸2",
@@ -1057,14 +1144,14 @@
             "type": 3,
             "api": "csp_AppMuou",
             "ext": "ewogICJTaXRlVXJsIjogImh0dHBzOi8vbXVvdS53bGJicS54eXoiLAogICJFeHQiOiAiaXA5K1dadnQ5ODNzUzAwOGtyTktobno4Q2Fzb2d3QjlLYkp2U0FmNGJRZEg5aUlGVHE4Y0tGM3Y4RFBicnphUiIsCiAgIkluZm8iOiAiaHR0cHM6Ly9tdW91aHQuZ2d0dmIuY2MiCn0=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0930logo.png;md5;673e105f447b397553abc81447497f6f"
         },
         {
             "key": "csp_FreeOk",
             "name": "FreeOk(SP)",
             "type": 3,
             "api": "csp_FreeOk",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0930logo.png;md5;673e105f447b397553abc81447497f6f"
         },
         {
             "key": "csp_农民",
@@ -1072,14 +1159,14 @@
             "type": 3,
             "api": "csp_Wwys",
             "ext": "https://www.wwgz.cn",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0930logo.png;md5;673e105f447b397553abc81447497f6f"
         },
         {
             "key": "csp_Duanju",
             "name": "短剧(SP)",
             "type": 3,
             "api": "csp_DuanJu",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0930logo.png;md5;673e105f447b397553abc81447497f6f"
         },
         {
             "key": "csp_BookTing",
@@ -1087,7 +1174,7 @@
             "type": 3,
             "api": "csp_BookTing",
             "ext": "https://m.i275.com",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0926.jpg;md5;c529574628f77f2d9fdb22bde3b28463"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/jar/0930logo.png;md5;673e105f447b397553abc81447497f6f"
         },
         {
             "key": "火猫",
@@ -3113,7 +3200,7 @@
             "changeable": 0
         },
         {
-            "key": "drpy_js_有声小说",
+            "key": "有声小说(js)",
             "name": "有声小说(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
@@ -3127,7 +3214,7 @@
             "changeable": 0
         },
         {
-            "key": "drpy_js_蜻蜓FM",
+            "key": "蜻蜓FM",
             "name": "蜻蜓收音(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/leva/master/notes/lib4/drpy2.min.js",
@@ -4036,7 +4123,7 @@
             "name": "catvod_iptv",
             "type": 0,
             "url": "https://iptv.catvod.com/tv.m3u",
-            "ua": "okHttp/Mod-1.3.0.0"
+            "ua": "okHttp/Mod-1.4.0.0"
         },
         {
             "name": "蜂蜜",
